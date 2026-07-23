@@ -1,0 +1,15 @@
+services:
+  rethinkdb:
+    build:
+      context: ./docker/rethinkdb
+    image: complete-english-rethinkdb:2.4.4-local
+    container_name: complete-english-rethinkdb
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:39015:28015"
+      - "127.0.0.1:39080:8080"
+    volumes:
+      - complete-english-rethinkdb-data:/data
+
+volumes:
+  complete-english-rethinkdb-data:
