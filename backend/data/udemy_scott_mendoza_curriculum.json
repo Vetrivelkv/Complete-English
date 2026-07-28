@@ -3495,6 +3495,350 @@
               "explanation": "Use on for Tuesday, Mondays, March 15th, and specific dates."
             }
           ]
+        },
+        {
+          "id": "simple_present_tense_review",
+          "title": "Review it! - Simple Present Tense",
+          "image": "",
+          "content": "### What is discussed in this video\n\nThis is the **Review it!** lesson for the simple present tense. Scott works through one problem at a time, reveals the answer, and explains how the subject controls the verb. The review moves from basic uses and forms into questions, negatives, `to be`, spelling, agreement across two clauses, contractions, and time-marker placement.\n\n### 1. Habits and routines\n\nThe first video question asks what the simple present tense is used to discuss. The correct answer is **habits and routines**.\n\nVideo example:\n\n**I brush my teeth every morning.**\n\n`I` is first-person singular, so the main verb stays in its base form: **brush**.\n\n### 2. Positive simple-present forms\n\nMost subjects use the base form. A third-person singular subject adds **s** or **es**.\n\n| Subject | Video Example | Reason |\n|---|---|---|\n| I | I brush my teeth every morning. | `I` uses the base form |\n| she | She goes to school every day. | `go` ends in `o`, so add `es` |\n| he | He eats breakfast at 7 a.m. | third-person singular adds `s` |\n\nThe correct video sentence is **She goes to school every day**, not *She go*, *She going*, or *She went*.\n\n### 3. Questions with `do` and `does`\n\nMost simple-present questions begin with **do** or **does**:\n\n**Do/Does + subject + base verb?**\n\nVideo example:\n\n**Does she play the piano?**\n\n`She` is third-person singular, so **does** carries the `-es` ending. The main verb remains the base form **play**. Do not write *Does she plays?*\n\nUse **do** with `I`, `you`, `we`, `they`, and plural subjects. Use **does** with `he`, `she`, `it`, and singular third-person subjects.\n\n### 4. Negative forms\n\nSimple-present negatives use:\n\n**do not / don't + base verb**  \n**does not / doesn't + base verb**\n\nVideo examples:\n\n- **They don't like coffee.**\n- **He doesn't like coffee.**\n\n`They` is third-person plural, so it uses **do not / don't**. `He` is third-person singular, so it uses **does not / doesn't**. In both sentences, **like** stays in the base form because the helper has already changed.\n\n### 5. Present forms of `to be`\n\nThe video reviews the irregular forms:\n\n| Subject | Form of `be` |\n|---|---|\n| I | am |\n| you | are |\n| he / she / it | is |\n| we | are |\n| they | are |\n\nVideo example:\n\n**We are happy today.**\n\n### 6. Questions with `to be`: inversion\n\nQuestions with `to be` do not use `do` or `does`. Invert the subject and the verb:\n\n| Statement From Video | Question From Video |\n|---|---|\n| She is a doctor. | Is she a doctor? |\n| They are at the park. | Are they at the park? |\n| I am on time. | Am I on time? |\n\n### 7. Guided verb-form practice\n\nThe video then asks the learner to complete sentences from verbs in parentheses.\n\n- He **plays** soccer every Saturday.\n- You **do not like** vegetables. / You **don't like** vegetables.\n- **Do** they work on Sundays?\n- She **is** tired.\n- We **go** to the park on weekends.\n\nScott notes that **on weekends** is common in American English, while **at weekends** is common in British English.\n\n### 8. Agreement inside a longer sentence\n\nA sentence can contain more than one subject, and each subject controls its own verb.\n\nVideo example:\n\n**Agatha hates when her little brothers leave toys in the living room.**\n\n- `Agatha` is third-person singular, so **hate** becomes **hates**.\n- `her little brothers` is plural, so **leave** stays in the base form.\n\nDo not make one verb agree with the other subject. Check each subject-verb pair separately.\n\n### 9. Third-person singular spelling\n\nThe review highlights endings that normally take **es**: `o`, `s`, `ch`, `sh`, `x`, and `z`.\n\nVideo example:\n\n**Noah washes the dishes and his wife cooks dinner.**\n\n- `wash` ends in `sh`, so it becomes **washes**.\n- `cook` follows the normal rule and becomes **cooks**.\n\n### 10. Irregular `be` and `have`\n\nSome common verbs have forms that must be memorized.\n\nVideo example:\n\n**My mom's family is quite big. She has four brothers and three sisters.**\n\nThe family is treated as one unit, so use **is**. With third-person singular `she`, **have** becomes **has**.\n\n### 11. Natural negative contractions\n\nScott asks for contracted negative forms because contractions sound more natural in speech.\n\nVideo example:\n\n**James doesn't like reading. I don't get how it is possible!**\n\n- `does not` becomes **doesn't**.\n- `do not` becomes **don't**.\n- The main verbs **like** and **get** stay in the base form.\n\n### 12. Time-marker placement\n\nThe final video exercise places **every day**, **always**, and **usually**.\n\n| Time Marker | Video Sentence | Placement Rule |\n|---|---|---|\n| every day | People in Britain drink tea every day. | normally at the end; it can move to the beginning for emphasis |\n| always | The sun always rises in the east. | before a normal action verb |\n| usually | She is usually tired after work. | after a form of `to be` |\n\nThe video also accepts **Every day, people in Britain drink tea** when the speaker wants to emphasize the time phrase.\n\n### Review strategy\n\nUse the same process for every problem:\n\n1. Find the subject for each verb.\n2. Decide whether it is third-person singular.\n3. Identify whether the sentence is positive, negative, or a question.\n4. Use `do/does` for regular-verb questions and negatives, then keep the main verb in base form.\n5. Invert `am/is/are` directly when `to be` is the main verb.\n6. Apply spelling and time-marker rules only after the sentence structure is clear.\n",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "According to the first question in the video, what does the simple present tense commonly describe?",
+              "options": [
+                "Habits and routines",
+                "Only actions happening at this moment",
+                "Only possibilities",
+                "Only actions completed in the past"
+              ],
+              "correct": 0,
+              "explanation": "The video opens by identifying habits and routines as a main use of the simple present tense."
+            },
+            {
+              "type": "mcq",
+              "question": "Which verb form completes the video example: \"I ___ my teeth every morning\"?",
+              "options": [
+                "brushes",
+                "brush",
+                "am brushing",
+                "brushed"
+              ],
+              "correct": 1,
+              "explanation": "I is first-person singular, so the simple present uses the base form brush."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sentence is the correct answer shown in the video?",
+              "options": [
+                "She go to school every day.",
+                "She going to school every day.",
+                "She goes to school every day.",
+                "She went to school every day."
+              ],
+              "correct": 2,
+              "explanation": "She is third-person singular. Go ends in o, so it becomes goes."
+            },
+            {
+              "type": "mcq",
+              "question": "Complete the video example: \"He ___ breakfast at 7 a.m.\"",
+              "options": [
+                "eat",
+                "eating",
+                "do eat",
+                "eats"
+              ],
+              "correct": 3,
+              "explanation": "He is third-person singular, so eat takes s."
+            },
+            {
+              "type": "mcq",
+              "question": "Which statement about simple-present questions does the video mark as correct?",
+              "options": [
+                "Most questions start with do or does.",
+                "Questions always start with the subject.",
+                "The main verb always takes s in questions.",
+                "Simple-present questions start with did."
+              ],
+              "correct": 0,
+              "explanation": "The video states that most simple-present questions begin with do or does."
+            },
+            {
+              "type": "mcq",
+              "question": "Which question follows the exact pattern explained in the video?",
+              "options": [
+                "Do she plays the piano?",
+                "Does she play the piano?",
+                "Does she plays the piano?",
+                "She does play the piano?"
+              ],
+              "correct": 1,
+              "explanation": "Does agrees with she, and the main verb stays in the base form play."
+            },
+            {
+              "type": "mcq",
+              "question": "Which negative sentence is selected as correct in the video?",
+              "options": [
+                "They doesn't like coffee.",
+                "They no like coffee.",
+                "They don't like coffee.",
+                "They not like coffee."
+              ],
+              "correct": 2,
+              "explanation": "They is plural, so use do not or don't plus the base verb like."
+            },
+            {
+              "type": "mcq",
+              "question": "Why does the main verb stay in base form after does or doesn't?",
+              "options": [
+                "The object controls the verb.",
+                "Negative sentences have no tense.",
+                "The main verb is always plural.",
+                "The helper does already carries the third-person singular change."
+              ],
+              "correct": 3,
+              "explanation": "Only the helper is conjugated; the following main verb stays in its base form."
+            },
+            {
+              "type": "mcq",
+              "question": "Which negative sentence correctly matches the video's third-person singular example?",
+              "options": [
+                "He doesn't like coffee.",
+                "He don't like coffee.",
+                "He doesn't likes coffee.",
+                "He not likes coffee."
+              ],
+              "correct": 0,
+              "explanation": "He uses doesn't, followed by the base verb like."
+            },
+            {
+              "type": "mcq",
+              "question": "Which form of the verb to be is correct with we?",
+              "options": [
+                "We is",
+                "We are",
+                "We am",
+                "We was"
+              ],
+              "correct": 1,
+              "explanation": "The video directly asks this question and gives we are."
+            },
+            {
+              "type": "mcq",
+              "question": "Turn the video statement \"She is a doctor\" into a question.",
+              "options": [
+                "Does she is a doctor?",
+                "She is a doctor?",
+                "Is she a doctor?",
+                "Do she be a doctor?"
+              ],
+              "correct": 2,
+              "explanation": "With to be, invert is and the subject: Is she a doctor?"
+            },
+            {
+              "type": "mcq",
+              "question": "Turn \"They are at the park\" into a question.",
+              "options": [
+                "Do they are at the park?",
+                "They do at the park?",
+                "Is they at the park?",
+                "Are they at the park?"
+              ],
+              "correct": 3,
+              "explanation": "Invert the form of be and the subject: Are they at the park?"
+            },
+            {
+              "type": "mcq",
+              "question": "Which question correctly changes \"I am on time\"?",
+              "options": [
+                "Am I on time?",
+                "Do I am on time?",
+                "Are I on time?",
+                "I am on time?"
+              ],
+              "correct": 0,
+              "explanation": "The video forms the question by placing am before I."
+            },
+            {
+              "type": "mcq",
+              "question": "Complete the guided video exercise: \"He ___ soccer every Saturday.\"",
+              "options": [
+                "play",
+                "plays",
+                "do play",
+                "playing"
+              ],
+              "correct": 1,
+              "explanation": "He is third-person singular, so play becomes plays."
+            },
+            {
+              "type": "mcq",
+              "question": "Which answer correctly completes the negative exercise with you and like?",
+              "options": [
+                "You doesn't like vegetables.",
+                "You not likes vegetables.",
+                "You don't like vegetables.",
+                "You don't likes vegetables."
+              ],
+              "correct": 2,
+              "explanation": "You uses do not or don't, followed by the base verb like."
+            },
+            {
+              "type": "mcq",
+              "question": "Complete the question from the video: \"___ they work on Sundays?\"",
+              "options": [
+                "Does",
+                "Are",
+                "Did",
+                "Do"
+              ],
+              "correct": 3,
+              "explanation": "They is third-person plural, so the question begins with do."
+            },
+            {
+              "type": "mcq",
+              "question": "Complete the video exercise: \"She ___ tired.\"",
+              "options": [
+                "is",
+                "are",
+                "am",
+                "do"
+              ],
+              "correct": 0,
+              "explanation": "She is third-person singular and takes the irregular be form is."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sentence correctly completes the exercise with we and go?",
+              "options": [
+                "We goes to the park on weekends.",
+                "We go to the park on weekends.",
+                "We going to the park on weekends.",
+                "We does go to the park on weekends."
+              ],
+              "correct": 1,
+              "explanation": "We uses the base form go. The video also notes British English at weekends."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sentence matches the video's two-subject agreement example?",
+              "options": [
+                "Agatha hate when her little brothers leaves toys in the living room.",
+                "Agatha hates when her little brothers leaves toys in the living room.",
+                "Agatha hates when her little brothers leave toys in the living room.",
+                "Agatha hate when her little brothers leave toys in the living room."
+              ],
+              "correct": 2,
+              "explanation": "Agatha is singular and takes hates; brothers is plural and takes the base form leave."
+            },
+            {
+              "type": "mcq",
+              "question": "Complete the spelling exercise: \"Noah ___ the dishes and his wife ___ dinner.\"",
+              "options": [
+                "wash / cook",
+                "washs / cookes",
+                "washes / cook",
+                "washes / cooks"
+              ],
+              "correct": 3,
+              "explanation": "Wash ends in sh and takes es; cook follows the normal third-person singular s rule."
+            },
+            {
+              "type": "mcq",
+              "question": "Why does wash become washes for a third-person singular subject?",
+              "options": [
+                "Verbs ending in sh normally take es.",
+                "Every English verb always takes es.",
+                "Wash is an irregular past-tense verb.",
+                "The object dishes is plural."
+              ],
+              "correct": 0,
+              "explanation": "The video reviews o, s, ch, sh, x, and z as endings that normally take es."
+            },
+            {
+              "type": "mcq",
+              "question": "Which forms complete the video's irregular-verb example?",
+              "options": [
+                "My mom's family are quite big. She have four brothers.",
+                "My mom's family is quite big. She has four brothers.",
+                "My mom's family am quite big. She haves four brothers.",
+                "My mom's family be quite big. She is have four brothers."
+              ],
+              "correct": 1,
+              "explanation": "Family is treated as one unit and takes is; she takes the irregular form has."
+            },
+            {
+              "type": "mcq",
+              "question": "Which contracted negatives match the final practice section?",
+              "options": [
+                "James don't like reading. I doesn't get it.",
+                "James doesn't likes reading. I don't gets it.",
+                "James doesn't like reading. I don't get it.",
+                "James not like reading. I no get it."
+              ],
+              "correct": 2,
+              "explanation": "Doesn't matches James, don't matches I, and both main verbs stay in base form."
+            },
+            {
+              "type": "mcq",
+              "question": "Where can every day go in \"People in Britain drink tea\"?",
+              "options": [
+                "Only between Britain and drink",
+                "Only between drink and tea",
+                "Only after the subject",
+                "At the end, or at the beginning for emphasis"
+              ],
+              "correct": 3,
+              "explanation": "The video accepts both People in Britain drink tea every day and Every day, people in Britain drink tea."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sentence places always correctly with a normal action verb?",
+              "options": [
+                "The sun always rises in the east.",
+                "The sun rises always in the east only.",
+                "Always the sun in the east rises.",
+                "The always sun rises in the east."
+              ],
+              "correct": 0,
+              "explanation": "Frequency markers such as always normally come before the main action verb."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sentence places usually correctly with the verb to be?",
+              "options": [
+                "She usually is tired after work only.",
+                "She is usually tired after work.",
+                "Usually she tired is after work.",
+                "She is tired usually after work only."
+              ],
+              "correct": 1,
+              "explanation": "With a form of to be, the frequency marker normally comes after the verb."
+            },
+            {
+              "type": "mcq",
+              "question": "What should you do when a sentence contains two separate subjects and verbs?",
+              "options": [
+                "Make both verbs agree with the first noun.",
+                "Always use plural verbs.",
+                "Check each subject-verb pair separately.",
+                "Remove the second verb."
+              ],
+              "correct": 2,
+              "explanation": "The Agatha/brothers and Noah/wife examples show that each subject controls its own verb."
+            },
+            {
+              "type": "mcq",
+              "question": "What is the best first step for solving the video's simple-present problems?",
+              "options": [
+                "Add s to every verb.",
+                "Look only at the time marker.",
+                "Choose do before reading the subject.",
+                "Find the subject for the verb."
+              ],
+              "correct": 3,
+              "explanation": "The video repeatedly begins by identifying the subject and its person and number."
+            }
+          ]
         }
       ]
     }
