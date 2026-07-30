@@ -3839,6 +3839,478 @@
               "explanation": "The video repeatedly begins by identifying the subject and its person and number."
             }
           ]
+        },
+        {
+          "id": "simple_present_tense_use",
+          "title": "Use it! - Simple Present Tense",
+          "image": "assets/simple_present_tense_use_it_dialogue.jpg",
+          "content": "### Use-It Lesson: Simple Present In A Real Conversation\n\nThis short video moves away from rule charts and shows the **simple present tense in a natural first meeting**. Scott asks you to listen while he reads, notice how the grammar works in conversation, make sure you understand it, and then read the dialogue aloud to improve fluency and pronunciation.\n\n### The conversation\n\n> **Alex:** Hello! What's your name?  \n> **Sarah:** Oh, hi, my name's Sarah. And yours?  \n> **Alex:** I'm Alex. Nice to meet you, Sarah!  \n> **Sarah:** Nice to meet you too! So, where do you come from?  \n> **Alex:** I come from Germany. And where are you from?  \n> **Sarah:** I'm from the UK.  \n> **Alex:** Oh, I have a lot of friends from the UK. You probably have a great sense of humour.  \n> **Sarah:** I'm not sure about that! I don't always get our jokes.  \n> **Alex:** You're an exception then!  \n> **Sarah:** I'll take that as a compliment.\n\n### 1. Introducing yourself with `to be`\n\nThe dialogue uses contractions because that is how English normally sounds in conversation.\n\n| Video Line | Full Form | Grammar |\n|---|---|---|\n| What's your name? | What is your name? | `is` comes before the subject in a question |\n| My name's Sarah. | My name is Sarah. | singular `name` uses `is` |\n| I'm Alex. | I am Alex. | `I` uses `am` |\n| I'm from the UK. | I am from the UK. | present identity/origin |\n| You're an exception. | You are an exception. | `you` uses `are` |\n\n### 2. Two ways to ask about origin\n\nThe conversation uses two correct question patterns:\n\n- **Where do you come from?**\n- **Where are you from?**\n\nThe first question uses the action verb **come**, so it needs **do**:\n\n**Where + do + subject + base verb?**\n\nThe second question uses **to be**, so `are` moves before the subject:\n\n**Where + are + subject?**\n\nDo not mix the patterns. *Where do you are from?* and *Where are you come from?* are incorrect.\n\n### 3. Base-form verbs with `I` and `you`\n\nThe dialogue gives several simple-present examples:\n\n| Subject | Verb Phrase | Video Example |\n|---|---|---|\n| I | come | I come from Germany. |\n| I | have | I have a lot of friends from the UK. |\n| you | have | You probably have a great sense of humour. |\n| I | get | I don't always get our jokes. |\n\n`I` and `you` use the base form, so the verbs are **come**, **have**, and **get**, not *comes*, *has*, or *gets*.\n\n### 4. Making the negative\n\nSarah says:\n\n**I'm not sure about that!**\n\nWith `to be`, add **not** directly after the verb: **I am not**.\n\nShe also says:\n\n**I don't always get our jokes.**\n\nWith the regular verb `get`, use:\n\n**subject + do not / don't + base verb**\n\nThe frequency adverb **always** comes after `don't` and before the main verb `get` in this negative sentence.\n\n### 5. Natural contractions in the dialogue\n\n| Contraction | Full Form |\n|---|---|\n| what's | what is |\n| name's | name is |\n| I'm | I am |\n| don't | do not |\n| you're | you are |\n| I'll | I will |\n\nThe final line, **I'll take that as a compliment**, is natural conversation, but `I'll` is **I will**, so that particular verb phrase is future rather than simple present. Real conversations can contain more than one tense even when the lesson focuses on one target tense.\n\n### 6. Meaning in context\n\nThe grammar is doing real communication work:\n\n1. Alex and Sarah exchange names.\n2. They ask where each other comes from.\n3. Alex states a fact about his friends.\n4. He makes a general comment about British humour.\n5. Sarah disagrees gently using a negative simple-present sentence.\n6. They finish with a light joke and a compliment.\n\n### Read it aloud\n\nFollow the video's instruction:\n\n1. Listen once and follow the text.\n2. Read the dialogue aloud slowly, keeping the contractions together.\n3. Read it again at a natural conversational speed.\n4. On a final reading, switch roles and notice every simple-present verb.\n\nPay special attention to the rhythm of:\n\n- **What's your name?**\n- **Where do you come from?**\n- **Where are you from?**\n- **I don't always get our jokes.**\n\n### Recap\n\n- Use `am/is/are` for identity and origin.\n- Invert `am/is/are` to make questions with `to be`.\n- Use `do + subject + base verb` for regular-verb questions with `I/you/we/they`.\n- Use `don't + base verb` for regular-verb negatives with `I/you/we/they`.\n- `I` and `you` use base-form action verbs in the simple present.\n- Contractions make the conversation sound natural.\n- A real dialogue may include another tense, as in `I'll` = `I will`.\n",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What does the video ask the learner to do after listening to the conversation?",
+              "options": [
+                "Understand the grammar and read it aloud for fluency and pronunciation",
+                "Rewrite every line in the past tense",
+                "Memorize only the speakers' names",
+                "Remove all contractions"
+              ],
+              "correct": 0,
+              "explanation": "Scott explicitly asks learners to understand the grammar and read aloud to work on fluency and pronunciation."
+            },
+            {
+              "type": "mcq",
+              "question": "What is \"What's\" in \"What's your name?\" a contraction of?",
+              "options": [
+                "What does",
+                "What is",
+                "What has",
+                "What was"
+              ],
+              "correct": 1,
+              "explanation": "In the dialogue, What's your name? means What is your name?"
+            },
+            {
+              "type": "mcq",
+              "question": "What does \"My name's Sarah\" mean?",
+              "options": [
+                "My name has Sarah.",
+                "My names are Sarah.",
+                "My name is Sarah.",
+                "My name was Sarah."
+              ],
+              "correct": 2,
+              "explanation": "Name's is the contraction of name is in this sentence."
+            },
+            {
+              "type": "mcq",
+              "question": "What is the full form of \"I'm Alex\"?",
+              "options": [
+                "I is Alex.",
+                "I are Alex.",
+                "I was Alex.",
+                "I am Alex."
+              ],
+              "correct": 3,
+              "explanation": "I'm is the contraction of I am."
+            },
+            {
+              "type": "mcq",
+              "question": "Which question appears in the video dialogue?",
+              "options": [
+                "Where do you come from?",
+                "Where does you come from?",
+                "Where do you comes from?",
+                "Where you come from?"
+              ],
+              "correct": 0,
+              "explanation": "The dialogue uses do with you and keeps come in the base form."
+            },
+            {
+              "type": "mcq",
+              "question": "Why does \"Where do you come from?\" use do?",
+              "options": [
+                "Come is a form of to be.",
+                "Come is an action verb, so the question needs do with you.",
+                "Every question must use do and are together.",
+                "The sentence is in the past tense."
+              ],
+              "correct": 1,
+              "explanation": "Regular-verb questions with you use do + subject + base verb."
+            },
+            {
+              "type": "mcq",
+              "question": "Which other origin question is used in the conversation?",
+              "options": [
+                "Where do you are from?",
+                "Where is you from?",
+                "Where are you from?",
+                "Where are you come from?"
+              ],
+              "correct": 2,
+              "explanation": "With to be, are comes before the subject: Where are you from?"
+            },
+            {
+              "type": "mcq",
+              "question": "Which reply matches the dialogue?",
+              "options": [
+                "I comes from Germany.",
+                "I am come from Germany.",
+                "I coming from Germany.",
+                "I come from Germany."
+              ],
+              "correct": 3,
+              "explanation": "I uses the base form come in the simple present."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sentence does Sarah use to state her origin?",
+              "options": [
+                "I'm from the UK.",
+                "I be from the UK.",
+                "I does from the UK.",
+                "I are from the UK."
+              ],
+              "correct": 0,
+              "explanation": "The video line I'm from the UK uses the contraction of I am."
+            },
+            {
+              "type": "mcq",
+              "question": "Complete Alex's line: \"I ___ a lot of friends from the UK.\"",
+              "options": [
+                "has",
+                "have",
+                "haves",
+                "am have"
+              ],
+              "correct": 1,
+              "explanation": "I takes the base/irregular form have, not has."
+            },
+            {
+              "type": "mcq",
+              "question": "Complete the dialogue: \"You probably ___ a great sense of humour.\"",
+              "options": [
+                "has",
+                "having",
+                "have",
+                "is have"
+              ],
+              "correct": 2,
+              "explanation": "You uses have in the simple present."
+            },
+            {
+              "type": "mcq",
+              "question": "Which negative sentence appears in the video?",
+              "options": [
+                "I doesn't always get our jokes.",
+                "I don't always gets our jokes.",
+                "I not always get our jokes.",
+                "I don't always get our jokes."
+              ],
+              "correct": 3,
+              "explanation": "I uses don't, and the main verb stays in the base form get."
+            },
+            {
+              "type": "mcq",
+              "question": "In \"I don't always get our jokes,\" where is the frequency adverb?",
+              "options": [
+                "After don't and before the main verb get",
+                "Before the subject I",
+                "After the object jokes only",
+                "Inside the contraction don't"
+              ],
+              "correct": 0,
+              "explanation": "The video line places always between the negative helper don't and the main verb get."
+            },
+            {
+              "type": "mcq",
+              "question": "Which line uses a negative form of to be?",
+              "options": [
+                "I don't always get our jokes.",
+                "I'm not sure about that.",
+                "You probably have a great sense of humour.",
+                "I come from Germany."
+              ],
+              "correct": 1,
+              "explanation": "I'm not means I am not; not follows the form of to be directly."
+            },
+            {
+              "type": "mcq",
+              "question": "What is the full form of \"You're an exception then\"?",
+              "options": [
+                "You were an exception then.",
+                "You is an exception then.",
+                "You are an exception then.",
+                "You have an exception then."
+              ],
+              "correct": 2,
+              "explanation": "You're is the contraction of you are."
+            },
+            {
+              "type": "mcq",
+              "question": "Which line from the dialogue is not simple present?",
+              "options": [
+                "I come from Germany.",
+                "I have a lot of friends.",
+                "I don't always get our jokes.",
+                "I'll take that as a compliment."
+              ],
+              "correct": 3,
+              "explanation": "I'll means I will, so the final line uses a future form rather than simple present."
+            },
+            {
+              "type": "mcq",
+              "question": "What is the key difference between \"Where do you come from?\" and \"Where are you from?\"",
+              "options": [
+                "The first uses do with the action verb come; the second inverts the verb to be.",
+                "The first is past tense and the second is future tense.",
+                "Only the first is grammatically correct.",
+                "Both questions must use do and are together."
+              ],
+              "correct": 0,
+              "explanation": "Regular-verb questions use do, while questions with to be invert are and the subject."
+            },
+            {
+              "type": "mcq",
+              "question": "Which reading practice best follows the video's instruction?",
+              "options": [
+                "Read silently once and skip unfamiliar grammar.",
+                "Listen, understand the grammar, and then read the dialogue aloud.",
+                "Replace every contraction with a past-tense verb.",
+                "Practice only the nouns and ignore the verbs."
+              ],
+              "correct": 1,
+              "explanation": "The video tells learners to listen, understand, and read aloud to develop fluency and pronunciation."
+            }
+          ]
+        },
+        {
+          "id": "simple_present_tense_practice",
+          "title": "Practice it! - Simple Present Tense",
+          "image": "assets/simple_present_tense_practice_it_exercises.jpg",
+          "content": "### Practice-It Lesson: Apply The Simple Present On Your Own\n\nThis video is the **Practice it!** subclass for the simple present tense. It asks you to solve the exercises before the answers appear. The work is divided into three stages:\n\n1. Underline the correct phrase.\n2. Write the correct verb forms.\n3. Answer personal questions in complete simple-present sentences.\n\nPause before each answer section and complete the activity independently.\n\n### 1. Underline the correct phrase\n\nChoose the phrase that makes each sentence grammatical.\n\n| Video Exercise | Correct Answer | Why |\n|---|---|---|\n| Excuse me, **do you know / does you know** the time? | **do you know** | `you` uses `do`; the main verb stays `know` |\n| My sister **always is / is always** in a hurry. | **is always** | frequency adverbs normally follow `am/is/are` |\n| What time **you go / do you go** to bed on Fridays? | **do you go** | regular-verb questions use `do + subject + base verb` |\n\nThe corrected sentences are:\n\n- **Excuse me, do you know the time?**\n- **My sister is always in a hurry.**\n- **What time do you go to bed on Fridays?**\n\n### 2. Write the correct answer\n\nThe next exercise provides verbs in parentheses. Change each verb to fit the subject and sentence type.\n\n#### Kelly and her routine\n\nVideo prompt:\n\n**Kelly (to stay/often) at home on Saturdays to work on her projects.**\n\nCorrect sentence:\n\n**Kelly often stays at home on Saturdays to work on her projects.**\n\n`Kelly` is third-person singular, so **stay** becomes **stays**. The frequency adverb **often** comes before the normal action verb.\n\n#### Her brother's preferences\n\nVideo prompt:\n\n**Her brother (not to use) the Internet. He (to like) everything the old-fashioned way.**\n\nCorrect sentences:\n\n**Her brother doesn't use the Internet. He likes everything the old-fashioned way.**\n\n- `Her brother` is third-person singular, so the negative helper is **doesn't**.\n- After **doesn't**, the main verb remains **use**.\n- `He` is third-person singular, so **like** becomes **likes**.\n\n#### Asking about arrival time\n\nVideo prompt:\n\n**When (you/to get) home? We need to talk.**\n\nCorrect sentence:\n\n**When do you get home? We need to talk.**\n\nThe question uses **do + you + base verb**.\n\n#### Asking about Lucy\n\nVideo prompt:\n\n**(you/to know) Lucy? She (to be) my friend from college.**\n\nCorrect sentences:\n\n**Do you know Lucy? She is my friend from college.**\n\nUse **do** for the question with the regular verb `know`. Use **is** because `she` is third-person singular and `to be` is irregular.\n\n### 3. Answer the questions\n\nThe final activity asks you to create your own simple-present answers.\n\n#### What do you do for a living?\n\nVideo sample:\n\n**I work as a teacher. I teach second grade.**\n\nUse simple present for your regular occupation or current professional identity.\n\n#### What are your hobbies?\n\nVideo sample:\n\n**I like painting and reading. I sometimes go hiking.**\n\nNotice that **sometimes** comes before the normal action verb **go**.\n\n#### What does your typical Sunday look like?\n\nVideo sample:\n\n**I wake up really late, have a big breakfast, and watch TV all day.**\n\nA routine can contain several coordinated base-form verbs with the same subject: **I wake**, **I have**, and **I watch**.\n\n### Grammar decisions practised in the video\n\n| Decision | Rule |\n|---|---|\n| `do` or `does`? | use `do` with `I/you/we/they`; use `does` with `he/she/it` |\n| main verb after `do/does` | keep it in the base form |\n| third-person singular positive | normally add `s` or `es` |\n| frequency adverb with action verb | normally place it before the main verb |\n| frequency adverb with `to be` | normally place it after `am/is/are` |\n| personal routines | use simple-present verbs in complete sentences |\n\n### Practice method\n\n1. Cover the answer column or pause the video.\n2. Identify the subject.\n3. Decide whether the item is positive, negative, or a question.\n4. Choose the helper and verb form.\n5. Read the completed sentence aloud.\n6. For the final three questions, replace the sample information with true information about your own life.\n",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Choose the correct phrase from the first video exercise: \"Excuse me, ___ the time?\"",
+              "options": [
+                "do you know",
+                "does you know",
+                "do you knows",
+                "you know do"
+              ],
+              "correct": 0,
+              "explanation": "You uses do, and the main verb remains in the base form know."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sentence matches the video's answer about the speaker's sister?",
+              "options": [
+                "My sister always is in a hurry.",
+                "My sister is always in a hurry.",
+                "My sister does always in a hurry.",
+                "My sister are always in a hurry."
+              ],
+              "correct": 1,
+              "explanation": "Frequency adverbs such as always normally come after a form of to be."
+            },
+            {
+              "type": "mcq",
+              "question": "Choose the correct question from the video.",
+              "options": [
+                "What time you go to bed on Fridays?",
+                "What time does you go to bed on Fridays?",
+                "What time do you go to bed on Fridays?",
+                "What time do you goes to bed on Fridays?"
+              ],
+              "correct": 2,
+              "explanation": "A regular-verb question with you uses do + you + base verb."
+            },
+            {
+              "type": "mcq",
+              "question": "Complete the video exercise: \"Kelly ___ at home on Saturdays to work on her projects.\"",
+              "options": [
+                "stays often",
+                "often stay",
+                "does often stays",
+                "often stays"
+              ],
+              "correct": 3,
+              "explanation": "Often comes before the action verb, and Kelly is third-person singular, so stay becomes stays."
+            },
+            {
+              "type": "mcq",
+              "question": "Which negative sentence correctly completes the exercise about Kelly's brother?",
+              "options": [
+                "Her brother doesn't use the Internet.",
+                "Her brother don't use the Internet.",
+                "Her brother doesn't uses the Internet.",
+                "Her brother not uses the Internet."
+              ],
+              "correct": 0,
+              "explanation": "A singular third-person subject uses doesn't followed by the base verb use."
+            },
+            {
+              "type": "mcq",
+              "question": "Complete the next sentence from the video: \"He ___ everything the old-fashioned way.\"",
+              "options": [
+                "like",
+                "likes",
+                "does likes",
+                "liking"
+              ],
+              "correct": 1,
+              "explanation": "He is third-person singular, so like takes s."
+            },
+            {
+              "type": "mcq",
+              "question": "Which arrival-time question is the answer shown in the video?",
+              "options": [
+                "When you get home?",
+                "When does you get home?",
+                "When do you get home?",
+                "When do you gets home?"
+              ],
+              "correct": 2,
+              "explanation": "The correct structure is when + do + you + base verb get."
+            },
+            {
+              "type": "mcq",
+              "question": "Complete the Lucy exercise correctly.",
+              "options": [
+                "Does you know Lucy? She are my friend from college.",
+                "Do you knows Lucy? She is my friend from college.",
+                "You know Lucy? She be my friend from college.",
+                "Do you know Lucy? She is my friend from college."
+              ],
+              "correct": 3,
+              "explanation": "Use do + you + know for the question and is with the third-person singular subject she."
+            },
+            {
+              "type": "mcq",
+              "question": "Why is use, not uses, correct after doesn't?",
+              "options": [
+                "Doesn't already carries the third-person singular agreement.",
+                "Use is always a plural noun.",
+                "Negative sentences cannot have main verbs.",
+                "Internet controls the verb form."
+              ],
+              "correct": 0,
+              "explanation": "When does is conjugated, the following main verb stays in the base form."
+            },
+            {
+              "type": "mcq",
+              "question": "Why does Kelly's positive sentence use stays?",
+              "options": [
+                "Projects is plural.",
+                "Kelly is a third-person singular subject.",
+                "Often always adds s to a verb.",
+                "Saturday is singular."
+              ],
+              "correct": 1,
+              "explanation": "Kelly can be replaced by she, so the positive simple-present verb takes s."
+            },
+            {
+              "type": "mcq",
+              "question": "Where does often belong in \"Kelly ___ stays at home\"?",
+              "options": [
+                "After at home only",
+                "Before the subject Kelly",
+                "Before the normal action verb stays",
+                "Between stay and its s ending"
+              ],
+              "correct": 2,
+              "explanation": "Frequency adverbs normally come before a standard action verb."
+            },
+            {
+              "type": "mcq",
+              "question": "Why does always follow is in \"My sister is always in a hurry\"?",
+              "options": [
+                "Always is an object.",
+                "Sister is plural.",
+                "The sentence is past tense.",
+                "Frequency adverbs normally come after the verb to be."
+              ],
+              "correct": 3,
+              "explanation": "With am, is, and are, place frequency adverbs after the verb."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sample answer does the video give for \"What do you do for a living?\"",
+              "options": [
+                "I work as a teacher. I teach second grade.",
+                "I works as a teacher. I teaches second grade.",
+                "I am work as a teacher.",
+                "I does teach second grade."
+              ],
+              "correct": 0,
+              "explanation": "The sample uses base-form simple-present verbs with I: work and teach."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sample answer matches the hobbies question?",
+              "options": [
+                "I likes painting and reading. I sometimes goes hiking.",
+                "I like painting and reading. I sometimes go hiking.",
+                "I am like painting and reading.",
+                "I does sometimes go hiking."
+              ],
+              "correct": 1,
+              "explanation": "I uses the base forms like and go, and sometimes comes before go."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sample answer describes a typical Sunday in the video?",
+              "options": [
+                "I waking up really late and has breakfast.",
+                "I wakes up really late, have breakfast, and watches TV.",
+                "I wake up really late, have a big breakfast, and watch TV all day.",
+                "I am wake up really late and do watch TV."
+              ],
+              "correct": 2,
+              "explanation": "The subject I controls all three coordinated base-form verbs: wake, have, and watch."
+            },
+            {
+              "type": "mcq",
+              "question": "Why does the question use does in \"What does your typical Sunday look like?\"",
+              "options": [
+                "You is the subject.",
+                "Look is a past verb.",
+                "All WH questions use does.",
+                "Your typical Sunday is third-person singular."
+              ],
+              "correct": 3,
+              "explanation": "The subject is your typical Sunday, a singular third-person noun phrase, so use does."
+            },
+            {
+              "type": "mcq",
+              "question": "What happens to look after does in \"What does your typical Sunday look like?\"",
+              "options": [
+                "It stays in the base form.",
+                "It becomes looks.",
+                "It becomes looked.",
+                "It is removed."
+              ],
+              "correct": 0,
+              "explanation": "After does, the main verb remains in the base form look."
+            },
+            {
+              "type": "mcq",
+              "question": "What is the main purpose of the video's final three questions?",
+              "options": [
+                "To practise only memorized sample answers",
+                "To create true simple-present sentences about your own life",
+                "To convert all answers into past tense",
+                "To avoid using complete sentences"
+              ],
+              "correct": 1,
+              "explanation": "The prompts ask learners to apply the simple present to their occupation, hobbies, and Sunday routine."
+            },
+            {
+              "type": "mcq",
+              "question": "Which order best follows the Practice-it method?",
+              "options": [
+                "Read the answer first, then ignore the subject.",
+                "Always add s, then decide whether there is a question.",
+                "Find the subject, identify the sentence type, then choose the helper and verb form.",
+                "Choose a time marker and remove the main verb."
+              ],
+              "correct": 2,
+              "explanation": "Subject and sentence type determine whether to use a base form, s/es, do/does, or a be form."
+            },
+            {
+              "type": "mcq",
+              "question": "Which set contains only correct answers from the video?",
+              "options": [
+                "does you know / always is / you go",
+                "Kelly often stay / brother don't use / he like",
+                "when you get / do you knows / she are",
+                "do you know / is always / do you go"
+              ],
+              "correct": 3,
+              "explanation": "Those are the three correct phrases revealed in the first answer-check section."
+            }
+          ]
         }
       ]
     }
