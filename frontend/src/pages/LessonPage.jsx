@@ -2,6 +2,7 @@ import { ArrowLeft, BookOpenText } from "lucide-react";
 import { useEffect, useState } from "react";
 import ReactMarkdown from "react-markdown";
 import { Link, useParams } from "react-router-dom";
+import remarkGfm from "remark-gfm";
 import { apiJson } from "../api";
 import LoadingState from "../components/LoadingState";
 import QuizForm from "../components/QuizForm";
@@ -27,7 +28,20 @@ export default function LessonPage() {
         <p>Read the lesson carefully. A perfect quiz score unlocks the next module.</p>
       </header>
       {lesson.image && <img className="lesson-image" src={lesson.image} alt="" />}
-      <article className="lesson-content"><ReactMarkdown>{lesson.content}</ReactMarkdown></article>
+      <article className="lesson-content">
+        <ReactMarkdown
+          remarkPlugins={[remarkGfm]}
+          components={{
+            table: ({ children }) => (
+              <div className="markdown-table-wrap">
+                <table>{children}</table>
+              </div>
+            ),
+          }}
+        >
+          {lesson.content}
+        </ReactMarkdown>
+      </article>
       <QuizForm
         questions={lesson.questions}
         requiredScore={lesson.requiredScore}

@@ -4708,6 +4708,210 @@
               "explanation": "The instructor explains that starting with “Last year” or “Yesterday” emphasizes the time."
             }
           ]
+        },
+        {
+          "id": "simple_past_tense_review",
+          "title": "Review it! - Simple Past Tense",
+          "image": "assets/simple_past_tense_review_it.jpg",
+          "content": "### Review-It Lesson: Check Every Simple-Past Decision\n\nThis video reviews the **simple past tense** through multiple-choice questions and sentence-completion exercises. Scott reveals each answer, explains why it works, and corrects the tempting wrong forms. The key is to decide whether a sentence is positive, negative, a question, or a form of **to be** before changing the verb.\n\n### 1. Recognizing the simple past\n\nThe first correct answer is:\n\n**I visited my friend yesterday.**\n\nTwo clues confirm it: **visited** is the regular past form of `visit`, and **yesterday** is a past-time marker. The video reinforces this with **She visited her grandparents last weekend.**\n\nFor regular past verbs, the same form is used with first-, second-, and third-person subjects. The important exception is **to be**, which changes between **was** and **were**.\n\n### 2. Negative regular verbs\n\nUse:\n\n**Subject + did not / didn't + base verb**\n\nVideo example: **I didn't walk to school.**\n\n`Did` is the past form of **do**, and `not` makes the sentence negative. Because **did** already carries past tense, the main verb stays in its base form.\n\nThe distractors teach useful contrasts:\n\n- **was not + base verb** is not the regular-verb pattern; `was` belongs to the irregular verb **to be**\n- **will not** expresses future time\n- **didn't + past verb** incorrectly marks two verbs for past time\n\n### 3. Regular and irregular forms\n\nThe review asks which form is irregular: **walked**, **stopped**, **went**, or **played**. The answer is **went**, the special past form of **go**.\n\n- I **go** to school. — simple present\n- I **went** to school. — simple past\n- They **went** to the museum yesterday.\n\nIrregular forms cannot be made by simply adding **-ed**; they must be learned.\n\n### 4. Correcting complete sentences\n\nThe correct sentence is **We played soccer yesterday.** The incorrect choices expose common errors:\n\n| Incorrect | Correct | Reason |\n|---|---|---|\n| She didn't went to the store. | She didn't **go** to the store. | after `didn't`, use the base verb |\n| They was at the party. | They **were** at the party. | plural `they` uses `were` |\n| I am going to the park yesterday. | use an appropriate past form | present continuous conflicts with `yesterday` |\n\nAnother correct example is **She played the piano beautifully at the concert.**\n\n### 5. Simple-past questions\n\nUse:\n\n**Did + subject + base verb?**\n\nThe correct review answer is **Did they finish the project?** `Did` moves before the subject—called **inversion**—and the main verb remains in its base form.\n\nCorrections from the video:\n\n- Did she **go** to the store? — not *Did she went...*\n- Did he **go** to the gym? — not *Did he goes...*\n- Did she **go** home? — not *Does she went...*\n- Did you **watch** the movie last night?\n\n### 6. Guided completion\n\n| Prompt | Correct sentence | Review point |\n|---|---|---|\n| She ___ (go) to the store yesterday. | She **went** to the store yesterday. | `go` is irregular |\n| They ___ (not, finish) the project on time. | They **did not finish** / **didn't finish** the project on time. | negative uses `did not + base` |\n| He ___ (be) late for the meeting. | He **was** late for the meeting. | `he` uses `was` |\n| Last year, we ___ (travel) to Italy. | Last year, we **traveled** to Italy. | regular verb adds `-ed` |\n| She ___ (study) for the test last night. | She **studied** for the test last night. | consonant + `y` becomes `ied` |\n\nThe instructor calls the base form the **bare infinitive**. More examples are:\n\n- Julie **passed** her exams this March.\n- Julie **didn't pass** her exams this March.\n- Jake **ate** tons of fast food as a kid.\n\n`Pass` stays in the base form after `didn't`. The verb `eat` is irregular, so its past form is **ate**, not a made-up **-ed** form.\n\n### 7. Spelling review\n\n| Base | Past | Reason |\n|---|---|---|\n| cry | cried | consonant + `y`: replace `y` with `i`, then add `-ed` |\n| stay | stayed | vowel before `y`: keep `y` and add `-ed` |\n| drop | dropped | one-syllable CVC: double final `p`, then add `-ed` |\n\nVideo sentences:\n\n- I forgot when the last time I **cried** was.\n- Pete **stayed** at home last night.\n- My mom **dropped** her phone into the pool.\n\n### 8. Positive and negative `to be`\n\nThe combined exercise is:\n\n**I was hungry and wanted to buy some Italian food, but my friends were not eager to join me.**\n\n`I` uses **was**. The plural subject `my friends` can be replaced by `they`, so it uses **were**. The second clause is negative, so **not** follows `were`.\n\n### 9. Time markers\n\nThe final sentence is:\n\n**It felt like the party was just last night, but actually it was three weeks ago.**\n\nThe two past-time markers are **last night** and **three weeks ago**.\n\n### Review strategy\n\n1. Find the subject and time marker.\n2. Identify a positive, negative, question, or **to be** structure.\n3. Use a regular **-ed** form or recall the irregular past form for a positive statement.\n4. After **did/didn't**, use the base verb.\n5. In questions, put **did** before the subject.\n6. With **to be**, choose **was** or **were** from the subject.\n7. Check `y` endings and CVC doubling.",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which sentence answers the video's first review question?",
+              "options": ["I visited my friend yesterday.", "I visit my friend.", "I am visiting my friend.", "I will visit my friend tomorrow."],
+              "correct": 0,
+              "explanation": "Visited is a regular past form, and yesterday is a past-time marker."
+            },
+            {
+              "type": "mcq",
+              "question": "Which two clues identify “She visited her grandparents last weekend” as simple past?",
+              "options": ["She and her", "Visited and last weekend", "Grandparents and weekend", "The sentence length"],
+              "correct": 1,
+              "explanation": "The -ed verb visited and the marker last weekend both signal past time."
+            },
+            {
+              "type": "mcq",
+              "question": "How does the review form a negative with a regular verb?",
+              "options": ["Subject + was not + base verb", "Subject + will not + base verb", "Subject + did not + base verb", "Subject + didn't + past verb"],
+              "correct": 2,
+              "explanation": "Use did not or didn't followed by the base main verb."
+            },
+            {
+              "type": "mcq",
+              "question": "Why is “didn't + past verb” incorrect?",
+              "options": ["Didn't is only for questions.", "The subject must be plural.", "Negatives cannot be past.", "Did already carries past tense, so the main verb stays base form."],
+              "correct": 3,
+              "explanation": "Changing both verbs would mark the past tense twice."
+            },
+            {
+              "type": "mcq",
+              "question": "Which regular negative example appears in the video?",
+              "options": ["I didn't walk to school.", "I wasn't walk to school.", "I didn't walked to school.", "I won't walk to school."],
+              "correct": 0,
+              "explanation": "The video uses didn't followed by the base verb walk."
+            },
+            {
+              "type": "mcq",
+              "question": "Which option is the irregular past verb in the review list?",
+              "options": ["walked", "went", "stopped", "played"],
+              "correct": 1,
+              "explanation": "Went is the irregular past form of go."
+            },
+            {
+              "type": "mcq",
+              "question": "Which present-to-past comparison is correct?",
+              "options": ["go / goed", "went / go", "go / went", "going / wented"],
+              "correct": 2,
+              "explanation": "Go is the base/present form, and went is its simple-past form."
+            },
+            {
+              "type": "mcq",
+              "question": "Which complete sentence does the video identify as correct?",
+              "options": ["She didn't went to the store.", "They was at the party.", "I am going to the park yesterday.", "We played soccer yesterday."],
+              "correct": 3,
+              "explanation": "Played and yesterday correctly express a completed past action."
+            },
+            {
+              "type": "mcq",
+              "question": "How should “She didn't went to the store” be corrected?",
+              "options": ["She didn't go to the store.", "She doesn't went to the store.", "She wasn't go to the store.", "She didn't goes to the store."],
+              "correct": 0,
+              "explanation": "After didn't, use the base form go."
+            },
+            {
+              "type": "mcq",
+              "question": "Why is “They was at the party” incorrect?",
+              "options": ["Party requires did.", "The plural subject they uses were.", "Was cannot express past time.", "They requires an -ed verb."],
+              "correct": 1,
+              "explanation": "They pairs with the past form were."
+            },
+            {
+              "type": "mcq",
+              "question": "Which simple-past question is correct?",
+              "options": ["Did she went to the store?", "Did he goes to the gym?", "Did they finish the project?", "Does she went home?"],
+              "correct": 2,
+              "explanation": "The pattern is did + subject + base verb."
+            },
+            {
+              "type": "mcq",
+              "question": "What does inversion mean in this review?",
+              "options": ["Changing the verb to -ing", "Moving the time marker", "Replacing the subject", "Putting did before the subject"],
+              "correct": 3,
+              "explanation": "Past questions invert did and the subject."
+            },
+            {
+              "type": "mcq",
+              "question": "Which correction matches the video?",
+              "options": ["Did she go home?", "Does she went home?", "Did she went home?", "Was she go home?"],
+              "correct": 0,
+              "explanation": "Did carries past tense, and go remains in the base form."
+            },
+            {
+              "type": "mcq",
+              "question": "Complete: “She ___ (go) to the store yesterday.”",
+              "options": ["goed", "went", "did went", "goes"],
+              "correct": 1,
+              "explanation": "Go is irregular; its positive simple-past form is went."
+            },
+            {
+              "type": "mcq",
+              "question": "Complete: “They ___ (not, finish) the project on time.”",
+              "options": ["didn't finished", "were not finish", "did not finish", "not finished"],
+              "correct": 2,
+              "explanation": "A regular negative uses did not followed by finish."
+            },
+            {
+              "type": "mcq",
+              "question": "Complete: “He ___ (be) late for the meeting.”",
+              "options": ["were", "did be", "is", "was"],
+              "correct": 3,
+              "explanation": "The subject he pairs with was."
+            },
+            {
+              "type": "mcq",
+              "question": "Which travel sentence matches the exercise?",
+              "options": ["Last year, we traveled to Italy.", "Last year, we travel to Italy.", "Last year, we did traveled to Italy.", "Last year, we were travel to Italy."],
+              "correct": 0,
+              "explanation": "Travel is regular in the exercise, so its past form is traveled."
+            },
+            {
+              "type": "mcq",
+              "question": "What is the reviewed past spelling of study?",
+              "options": ["studyed", "studied", "studdied", "studyd"],
+              "correct": 1,
+              "explanation": "Consonant + y changes to ied."
+            },
+            {
+              "type": "mcq",
+              "question": "What does bare infinitive mean here?",
+              "options": ["Irregular past", "The -ing form", "The base form", "Third-person singular"],
+              "correct": 2,
+              "explanation": "The instructor defines bare infinitive as the base form of the verb."
+            },
+            {
+              "type": "mcq",
+              "question": "Which negative sentence about Julie is correct?",
+              "options": ["Julie wasn't pass her exams.", "Julie didn't passed her exams.", "Julie not pass her exams.", "Julie didn't pass her exams this March."],
+              "correct": 3,
+              "explanation": "Didn't is followed by the base verb pass."
+            },
+            {
+              "type": "mcq",
+              "question": "What irregular past form of eat appears in the video?",
+              "options": ["ate", "eated", "eatten", "eat"],
+              "correct": 0,
+              "explanation": "The video sentence says Jake ate tons of fast food as a kid."
+            },
+            {
+              "type": "mcq",
+              "question": "Why is cried spelled with ied?",
+              "options": ["Cry is irregular.", "Cry ends in consonant + y.", "All short verbs use ied.", "The subject is I."],
+              "correct": 1,
+              "explanation": "For consonant + y, replace y with i and add ed."
+            },
+            {
+              "type": "mcq",
+              "question": "Why does stayed keep y?",
+              "options": ["Stay is irregular.", "The marker is last night.", "A vowel comes before y.", "Stay has two syllables."],
+              "correct": 2,
+              "explanation": "With vowel + y, keep y and add ed."
+            },
+            {
+              "type": "mcq",
+              "question": "Why does dropped contain two p letters?",
+              "options": ["Drop is irregular.", "Every p doubles.", "The subject is singular.", "Drop follows the one-syllable CVC rule."],
+              "correct": 3,
+              "explanation": "The final consonant doubles before ed in this CVC verb."
+            },
+            {
+              "type": "mcq",
+              "question": "Which combined to be sentence matches the exercise?",
+              "options": ["I was hungry, but my friends were not eager to join me.", "I were hungry, but my friends was not eager.", "I did be hungry, but my friends didn't be eager.", "I am hungry, but my friends are not eager yesterday."],
+              "correct": 0,
+              "explanation": "I uses was, while the plural subject my friends uses were."
+            },
+            {
+              "type": "mcq",
+              "question": "Why does my friends use were?",
+              "options": ["Friends is a time marker.", "My friends is plural and can be replaced by they.", "All negatives use were.", "Were is the past of do."],
+              "correct": 1,
+              "explanation": "My friends is plural, equivalent to they, which pairs with were."
+            },
+            {
+              "type": "mcq",
+              "question": "Which time markers are identified in the final sentence?",
+              "options": ["felt and party", "just and actually", "last night and three weeks ago", "party and weeks"],
+              "correct": 2,
+              "explanation": "Both phrases explicitly locate events in past time."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sequence best summarizes the review method?",
+              "options": ["Always add ed first.", "Choose was for every subject.", "Use did with a past main verb.", "Identify sentence type, choose the correct helper or form, then check spelling and time markers."],
+              "correct": 3,
+              "explanation": "The video repeatedly applies structure first, then verifies form, spelling, and time clues."
+            }
+          ]
         }
       ]
     }
