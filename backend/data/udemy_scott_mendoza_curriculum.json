@@ -4912,6 +4912,363 @@
               "explanation": "The video repeatedly applies structure first, then verifies form, spelling, and time clues."
             }
           ]
+        },
+        {
+          "id": "simple_past_tense_practice",
+          "title": "Practice it! - Simple Past Tense",
+          "image": "assets/simple_past_tense_practice_it_exercises.jpg",
+          "content": "### Practice-It Lesson: Build Accurate Simple-Past Sentences\n\nThis final Simple Past Tense video is a hands-on practice lesson. Complete each activity before checking the answer slide. It has three stages:\n\n1. Write complete sentences from verb prompts.\n2. Find and correct mistakes.\n3. Answer personal questions with your own simple-past information.\n\n### 1. Write the correct sentence\n\n| Video prompt | Correct sentence | Key decision |\n|---|---|---|\n| Nick's mother `(not to want)` to stay at home the whole day, so she `(to sign up)` for Spanish classes. | Nick's mother **didn't want** to stay at home the whole day, so she **signed up** for Spanish classes. | use `didn't + base verb`; use regular **signed** in the positive clause |\n| I `(to run)` every day when I `(to be)` a teen, but I don't do that anymore. | I **ran** every day when I **was** a teen, but I don't do that anymore. | `run` becomes irregular **ran**; `I` uses **was** |\n| Where `(you/to be)` last night? I `(to try)` calling you, but you `(not to pick up)` the phone. | **Where were you** last night? I **tried** calling you, but you **didn't pick up** the phone. | invert **were + you**; change consonant + `y` to **-ied**; use `didn't + base verb` |\n\nDo not automatically add **-ed** to every verb. Identify the sentence structure first, then choose a regular, irregular, or **was/were** form.\n\n### 2. Correct the mistakes\n\n#### Kim and David\n\nIncorrect: **Kim goed on a date with David the last night but didn't call him afterwards.**\n\nCorrect: **Kim went on a date with David last night but didn't call him afterwards.**\n\n`Go` has the irregular past form **went**, and the natural time phrase is **last night**, without `the`.\n\n#### The job\n\nIncorrect: **How you did get this job? There was so many people ready to kill for it!**\n\nCorrect: **How did you get this job? There were so many people ready to kill for it!**\n\nA past question uses **WH word + did + subject + base verb**. The plural subject **so many people** uses **were**.\n\n#### Ann and the party\n\nIncorrect: **We didn't invited Ann to the party. No one really likes her after she badmouthed Kristen.**\n\nVideo correction: **We didn't invite Ann to the party. No one really likes her after she badmouthed Kristen.**\n\nAfter **didn't**, use the base form **invite**. The present **likes** can remain because it describes a feeling that is still true now; **badmouthed** is the completed past cause.\n\n#### The trip to Houston\n\nIncorrect: **Yesterday I driven to Houston to see Dan. We wented to high school together.**\n\nCorrect: **Yesterday I drove to Houston to see Dan. We went to high school together.**\n\nThe simple past of `drive` is **drove**; **driven** is a past participle. The simple past of `go` is **went**, never *wented*.\n\n### 3. Answer the questions\n\nThe final activity asks for true information about your life.\n\n| Question | Video sample answer |\n|---|---|\n| Where did you grow up? | I **grew up** in Nashville, Tennessee. |\n| What did you do last night? | I **went** clubbing with my friends last night. |\n| When was the last time you went on a trip? | I **went** on a trip to Germany last year. |\n\nYour answers do not need to match the samples. Use a complete sentence, put the main action in the simple past, and add a clear past-time expression when useful.\n\n### Final practice checklist\n\n1. Pause before the answer appears.\n2. Identify the subject and sentence type.\n3. After **did/didn't**, use the base verb.\n4. Use **was/were** directly when **to be** is the main verb.\n5. Check whether a positive verb is regular or irregular.\n6. Check time phrases such as **last night**, **yesterday**, and **last year**.\n7. Read each correction aloud, then answer the personal questions with your own information.",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Complete: Nick's mother ___ to stay at home, so she ___ for Spanish classes.",
+              "options": ["didn't want / signed up", "didn't wanted / sign up", "wasn't want / signed up", "not wanted / did sign up"],
+              "correct": 0,
+              "explanation": "Use didn't + base verb want, while the positive regular verb becomes signed up."
+            },
+            {
+              "type": "mcq",
+              "question": "Complete the video sentence: I ___ every day when I ___ a teen.",
+              "options": ["runned / were", "ran / was", "did ran / was", "run / did be"],
+              "correct": 1,
+              "explanation": "Run has the irregular past form ran, and I takes was."
+            },
+            {
+              "type": "mcq",
+              "question": "Which question correctly completes the third exercise?",
+              "options": ["Where you were last night?", "Where did you were last night?", "Where were you last night?", "Where was you last night?"],
+              "correct": 2,
+              "explanation": "A question with to be inverts were and you."
+            },
+            {
+              "type": "mcq",
+              "question": "Complete: I ___ calling you, but you ___ the phone.",
+              "options": ["tryed / didn't picked up", "did try / not pick up", "tried / didn't picked up", "tried / didn't pick up"],
+              "correct": 3,
+              "explanation": "Try becomes tried, and didn't is followed by the base phrasal verb pick up."
+            },
+            {
+              "type": "mcq",
+              "question": "How does the video correct 'Kim goed ... the last night'?",
+              "options": ["Kim went on a date with David last night.", "Kim goed on a date with David last night.", "Kim did went on a date with David the last night.", "Kim was go on a date with David last night."],
+              "correct": 0,
+              "explanation": "Go becomes went, and the phrase is last night without the."
+            },
+            {
+              "type": "mcq",
+              "question": "Which is the corrected job question?",
+              "options": ["How you did get this job?", "How did you get this job?", "How did you got this job?", "How were you get this job?"],
+              "correct": 1,
+              "explanation": "The pattern is how + did + subject + base verb."
+            },
+            {
+              "type": "mcq",
+              "question": "Why does the answer use 'There were so many people'?",
+              "options": ["Were is used with every past sentence.", "People is a time expression.", "So many people is plural.", "The sentence is a question."],
+              "correct": 2,
+              "explanation": "The plural noun people takes were, not was."
+            },
+            {
+              "type": "mcq",
+              "question": "Which correction matches the party exercise?",
+              "options": ["We weren't invite Ann.", "We didn't invited Ann.", "We didn't invites Ann.", "We didn't invite Ann."],
+              "correct": 3,
+              "explanation": "Didn't carries past tense, so invite remains in the base form."
+            },
+            {
+              "type": "mcq",
+              "question": "Why can 'No one really likes her' remain present tense?",
+              "options": ["It describes a feeling still true now.", "No one is plural.", "Badmouthed is future.", "Past sentences cannot have two clauses."],
+              "correct": 0,
+              "explanation": "The present feeling can continue now even though badmouthed describes its past cause."
+            },
+            {
+              "type": "mcq",
+              "question": "What simple-past form of drive is used in the Houston sentence?",
+              "options": ["driven", "drove", "drived", "did drove"],
+              "correct": 1,
+              "explanation": "Drove is simple past; driven is the past participle."
+            },
+            {
+              "type": "mcq",
+              "question": "How is 'We wented to high school together' corrected?",
+              "options": ["We goed to high school together.", "We did went to high school together.", "We went to high school together.", "We were went to high school together."],
+              "correct": 2,
+              "explanation": "Went is already the irregular simple-past form of go."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sample answer is given for 'Where did you grow up?'",
+              "options": ["I grow up in Nashville.", "I was grow up in Nashville.", "I did grew up in Nashville.", "I grew up in Nashville, Tennessee."],
+              "correct": 3,
+              "explanation": "The sample uses the irregular past form grew."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sample answer matches 'What did you do last night?'",
+              "options": ["I went clubbing with my friends last night.", "I go clubbing with my friends last night.", "I did went clubbing last night.", "I was go clubbing last night."],
+              "correct": 0,
+              "explanation": "The video's sample uses went and last night."
+            },
+            {
+              "type": "mcq",
+              "question": "Where did the speaker go on a trip in the sample answer?",
+              "options": ["Nashville", "Germany", "Houston", "Spain"],
+              "correct": 1,
+              "explanation": "The sample says the speaker went to Germany last year."
+            },
+            {
+              "type": "mcq",
+              "question": "Which statement correctly distinguishes drove and driven?",
+              "options": ["Driven is simple past.", "Drove must follow did.", "Drove is simple past; driven is a past participle.", "Both are regular verbs."],
+              "correct": 2,
+              "explanation": "The correction uses I drove; driven is not the standalone simple-past form."
+            },
+            {
+              "type": "mcq",
+              "question": "What should a learner do before the answers appear?",
+              "options": ["Copy immediately.", "Add ed to every verb.", "Skip personal questions.", "Pause and complete the exercise independently."],
+              "correct": 3,
+              "explanation": "The activity is designed to be attempted before checking the answer."
+            },
+            {
+              "type": "mcq",
+              "question": "Which set contains only past-time expressions from the lesson?",
+              "options": ["yesterday / last night / last year", "tomorrow / next week / soon", "currently / now / today", "usually / always / often"],
+              "correct": 0,
+              "explanation": "Yesterday, last night, and last year all locate actions in past time."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sequence best follows the video's method?",
+              "options": ["Add ed first, then choose a subject.", "Identify the sentence type, choose the correct past structure, then check the answer.", "Use did in every positive statement.", "Memorize samples without making your own."],
+              "correct": 1,
+              "explanation": "Choose the structure first, form the verb accurately, and compare with the revealed answer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Simple Future Tense",
+      "subtopics": [
+        {
+          "id": "simple_future_tense_learn",
+          "title": "Learn it! - Simple Future Tense",
+          "image": "assets/simple_future_tense_learn_it.jpg",
+          "content": "### What is discussed in this video\n\nThis is the **Learn it!** foundation lesson for the **simple future tense**. Scott first teaches how to use and form future sentences with **will**, then compares `will` with other natural ways of talking about the future.\n\n### Main uses of the simple future\n\nThe opening overview gives four common uses:\n\n1. **Make predictions** about things we think will happen.\n2. **Make decisions**, especially at or around the moment of speaking.\n3. **Make promises or offers**.\n4. **State future facts** that we know are going to happen.\n\n| Use | Video examples |\n|---|---|\n| prediction | It **will rain** tomorrow. / She **will win** the competition. |\n| promise | I **will bring** you the report tomorrow. / He **will be** at the game on Saturday. |\n| offer or willingness | I **will help** you carry your bags. / We **will bring** the food for the party. |\n| future fact | The sun **will rise** at 6 a.m. / I **will drive** to work tomorrow. |\n\n### Positive sentences with `will`\n\nUse:\n\n**Subject + will + base verb**\n\n`Will` does not change with the subject, and the main verb stays in its base form.\n\n- I **will go** to the store later.\n- They **will start** the meeting at 3 p.m.\n\nIn ordinary speech and informal writing, `will` contracts to **'ll**:\n\n| Full form | Contraction |\n|---|---|\n| I will | I'll |\n| you will | you'll |\n| he will / she will / it will | he'll / she'll / it'll |\n| we will / they will | we'll / they'll |\n\n### Negative sentences\n\nUse:\n\n**Subject + will not + base verb**\n\nThe contraction of **will not** is **won't**.\n\n- I **will not go** to the party.\n- I **won't go** to the party.\n- They **won't finish** the project on time.\n\nDo not add `-s`, `-ed`, or `to` after `will` or `won't`.\n\n### Questions, invitations, and requests\n\nFor a yes/no question, put `will` before the subject:\n\n**Will + subject + base verb?**\n\n- **Will you go** to the meeting tomorrow?\n- **Will they arrive** on time?\n\nThe same structure can make polite requests:\n\n- **Will you help** me with my homework?\n- **Will they call** us when they arrive?\n\nIt can also invite someone to a future event:\n\n- **Will you join** us for dinner tonight?\n- **Will she attend** the meeting tomorrow?\n\n### Negative questions\n\nUse either the formal pattern or the more natural contraction:\n\n- **Will you not join** us for dinner? — formal\n- **Won't you join** us for dinner? — more natural\n\nNegative future questions can express different intentions:\n\n| Purpose | Video example | Meaning |\n|---|---|---|\n| surprise | Won't she call you tomorrow? | I thought she would. |\n| confirmation | Won't they finish the project on time? | checking whether they will finish |\n| polite request | Won't you help me? | asking for help politely |\n\nShort answers reuse `will` or `won't`:\n\n- Won't she be here tomorrow? — **Yes, she will. / No, she won't.**\n- Won't they be ready by 10 a.m.? — **Yes, they will. / No, they won't.**\n\n### WH-questions\n\nMost information questions use:\n\n**WH word + will + subject + base verb?**\n\n| Word | Video question | Video answer |\n|---|---|---|\n| what | What will you do tomorrow? | I will go to the park. |\n| where | Where will she travel next? | She will travel to Mexico. |\n| when | When will they arrive? | They will arrive at 8 p.m. |\n| why | Why will he quit his job? | He will quit his job because it is difficult. |\n| which | Which car will you buy? | I will buy the blue car. |\n| who | Who will win the game? | The home team will win the game. |\n| how | How will you get there? | I will get there by car. |\n\nThe lesson also reviews extended `how` phrases:\n\n| Phrase | What it asks about |\n|---|---|\n| how much | uncountable amount |\n| how many | countable number |\n| how often | frequency |\n| how long | duration |\n| how far | distance |\n\n### Future time markers\n\nTime expressions clarify when something will happen. The video highlights **tomorrow**, **next week/year**, **soon**, and **in a few days**.\n\n- I **will travel** to Japan **next month**.\n- They **will start** the project **in two weeks**.\n\n### `Shall`\n\n`Shall` is less common in modern everyday English, but it still appears in formal speech, offers and suggestions, legal documents, rules, and polite expressions.\n\nIn contracts, rules, or laws, `shall` can indicate an obligation:\n\n- The company **shall provide** health insurance to all employees.\n- All students **shall submit** their assignments by the deadline.\n\nTraditionally, `shall` was used with **I** and **we** for future statements:\n\n- I **shall call** you tomorrow.\n- We **shall arrive** at noon.\n\nIn modern general statements, `will` has almost completely replaced it:\n\n- I **will call** you tomorrow.\n- We **will arrive** at noon.\n\n### `Going to` for plans, intentions, and evidence\n\nUse:\n\n**Subject + am/is/are + going to + base verb**\n\nFor plans or intentions:\n\n- I **am going to start** a new project next week.\n- They **are going to buy** a new house.\n\nFor predictions based on present evidence:\n\n- Look at those black clouds. It **is going to rain**.\n- My mom told me that she **is going to have** a baby.\n\nQuestions can use either `will` or `going to`, with a difference in viewpoint:\n\n- What **will** you do tomorrow?\n- What **are you going to do** tomorrow?\n- Where **will** she travel next?\n- Where **is she going to travel** next?\n\n### Present forms with future meaning\n\nEnglish also uses present tenses to discuss the future.\n\n#### Simple present for schedules\n\nUse the simple present for scheduled or fixed events:\n\n- The train **leaves** at 6 p.m. tomorrow.\n- Her flight **arrives** at 8 a.m. next Monday.\n\n#### Present continuous for arrangements\n\nUse **am/is/are + verb-ing** for future arrangements:\n\n- We **are meeting** them tomorrow at 6 p.m.\n- I **am flying** to Paris next week.\n\n### Final comparison\n\n| Form | Best fit in this lesson |\n|---|---|\n| `will + base verb` | predictions, decisions, promises, offers, future facts |\n| `am/is/are going to + base verb` | plans, intentions, evidence-based predictions |\n| simple present | timetabled or fixed future events |\n| present continuous | arranged future activities |\n| `shall` | formal, legal, traditional, or polite contexts |",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which is one of the four simple-future uses listed at the start of the video?",
+              "options": ["Making predictions", "Describing completed past actions", "Naming plural nouns", "Comparing adjectives"],
+              "correct": 0,
+              "explanation": "The opening overview lists predictions, decisions, promises or offers, and future facts."
+            },
+            {
+              "type": "mcq",
+              "question": "Which prediction appears in the video?",
+              "options": ["It rained tomorrow.", "It will rain tomorrow.", "It will raining tomorrow.", "It is rain tomorrow."],
+              "correct": 1,
+              "explanation": "The video uses will + base verb in 'It will rain tomorrow.'"
+            },
+            {
+              "type": "mcq",
+              "question": "What structure forms a positive sentence with will?",
+              "options": ["Subject + will + to + verb", "Subject + verb-ed + will", "Subject + will + base verb", "Will + subject + verb-ing"],
+              "correct": 2,
+              "explanation": "A positive simple-future statement uses subject + will + base verb."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sentence correctly makes an offer from the lesson?",
+              "options": ["I helping you carry your bags.", "I will to help you carry your bags.", "I will helped you carry your bags.", "I will help you carry your bags."],
+              "correct": 3,
+              "explanation": "The offer uses I will followed by the base verb help."
+            },
+            {
+              "type": "mcq",
+              "question": "Which future fact is shown in the video?",
+              "options": ["The sun will rise at 6 a.m.", "The sun will rises at 6 a.m.", "The sun rose tomorrow.", "The sun is rise at 6 a.m."],
+              "correct": 0,
+              "explanation": "The video uses 'The sun will rise at 6 a.m.' as a future fact."
+            },
+            {
+              "type": "mcq",
+              "question": "What is the contraction of 'they will'?",
+              "options": ["they'll not", "they'll", "they'will", "they wont"],
+              "correct": 1,
+              "explanation": "Will contracts to 'll, so they will becomes they'll."
+            },
+            {
+              "type": "mcq",
+              "question": "Which formula forms a negative future sentence?",
+              "options": ["Subject + did not + base verb", "Subject + will + not + verb-ed", "Subject + will not + base verb", "Will not + subject + base verb"],
+              "correct": 2,
+              "explanation": "Use subject + will not (won't) + base verb."
+            },
+            {
+              "type": "mcq",
+              "question": "Which negative example matches the lesson?",
+              "options": ["They won't finished the project.", "They don't will finish the project.", "They will not to finish the project.", "They won't finish the project on time."],
+              "correct": 3,
+              "explanation": "Won't is followed by the base form finish."
+            },
+            {
+              "type": "mcq",
+              "question": "How is a yes/no future question formed?",
+              "options": ["Will + subject + base verb?", "Do + subject + will?", "Subject + will + base verb?", "Will + subject + verb-ed?"],
+              "correct": 0,
+              "explanation": "Put will before the subject and keep the main verb in its base form."
+            },
+            {
+              "type": "mcq",
+              "question": "Which polite request appears in the video?",
+              "options": ["Do you will help me with homework?", "Will you help me with my homework?", "Will you helped me with my homework?", "Are you help me with my homework?"],
+              "correct": 1,
+              "explanation": "Will you + base verb makes the polite request shown."
+            },
+            {
+              "type": "mcq",
+              "question": "Which invitation is described as more natural?",
+              "options": ["Will you not joining us?", "Do you won't join us?", "Won't you join us for dinner?", "Won't you joined us for dinner?"],
+              "correct": 2,
+              "explanation": "The contracted negative question 'Won't you join us for dinner?' is the more natural form."
+            },
+            {
+              "type": "mcq",
+              "question": "What can 'Won't she call you tomorrow?' express?",
+              "options": ["A completed action", "A legal obligation", "A fixed timetable", "Surprise because the speaker thought she would"],
+              "correct": 3,
+              "explanation": "The negative-question table presents this sentence as an expression of surprise."
+            },
+            {
+              "type": "mcq",
+              "question": "Which is a correct short answer to 'Won't she be here tomorrow?'",
+              "options": ["Yes, she will.", "Yes, she does.", "Yes, she is be.", "Yes, she won't be."],
+              "correct": 0,
+              "explanation": "A short answer to a will question reuses will: Yes, she will."
+            },
+            {
+              "type": "mcq",
+              "question": "What is the usual WH-question order?",
+              "options": ["Will + WH word + subject + base verb", "WH word + will + subject + base verb", "WH word + subject + will + verb-ed", "WH word + do + subject + will"],
+              "correct": 1,
+              "explanation": "Use WH word + will + subject + base verb."
+            },
+            {
+              "type": "mcq",
+              "question": "Which answer does the video give for 'Where will she travel next?'",
+              "options": ["She travels yesterday.", "She will travels to Mexico.", "She will travel to Mexico.", "She is travel to Mexico."],
+              "correct": 2,
+              "explanation": "The sample answer uses will + base verb travel and names Mexico."
+            },
+            {
+              "type": "mcq",
+              "question": "Which question asks about a countable number?",
+              "options": ["How much will it cost?", "How long will it take?", "How far will they travel?", "How many people will attend?"],
+              "correct": 3,
+              "explanation": "How many asks about countable nouns such as people."
+            },
+            {
+              "type": "mcq",
+              "question": "Which set contains only future time markers highlighted in the video?",
+              "options": ["tomorrow / next year / soon / in a few days", "yesterday / last year / ago", "usually / always / never", "now / currently / at present"],
+              "correct": 0,
+              "explanation": "All four phrases are presented as future time markers."
+            },
+            {
+              "type": "mcq",
+              "question": "Where does the lesson say shall is especially likely to appear?",
+              "options": ["Only in casual text messages", "Formal speech, legal documents, rules, and polite expressions", "Only with third-person plural subjects", "Only in past-tense questions"],
+              "correct": 1,
+              "explanation": "The video describes shall as less common but still useful in formal, legal, and polite contexts."
+            },
+            {
+              "type": "mcq",
+              "question": "What does shall indicate in the contract example?",
+              "options": ["A past habit", "An uncertain guess", "An obligation or formal rule", "A present action"],
+              "correct": 2,
+              "explanation": "In contracts, rules, or laws, shall can mark an obligation."
+            },
+            {
+              "type": "mcq",
+              "question": "Which modern-English statement replaces the traditional 'We shall arrive at noon'?",
+              "options": ["We arrive yesterday.", "We are arrived at noon.", "We do arrive at noon.", "We will arrive at noon."],
+              "correct": 3,
+              "explanation": "The video says will has almost completely replaced shall in general future statements."
+            },
+            {
+              "type": "mcq",
+              "question": "What does going to commonly express in the lesson?",
+              "options": ["Plans or intentions", "Completed past actions", "Only legal rules", "Possession"],
+              "correct": 0,
+              "explanation": "Going to is introduced for plans and intentions."
+            },
+            {
+              "type": "mcq",
+              "question": "Which planned-future sentence appears in the video?",
+              "options": ["I going to start a project.", "I am going to start a new project next week.", "I will going to start a project.", "I am going start a project."],
+              "correct": 1,
+              "explanation": "The correct structure is am + going to + base verb start."
+            },
+            {
+              "type": "mcq",
+              "question": "Why does the speaker say 'It is going to rain' after mentioning black clouds?",
+              "options": ["Rain is a fixed timetable.", "The action is already completed.", "The prediction is based on present evidence.", "Shall cannot be used with weather."],
+              "correct": 2,
+              "explanation": "The black clouds provide visible evidence for the prediction."
+            },
+            {
+              "type": "mcq",
+              "question": "Which going-to question is formed correctly?",
+              "options": ["Where going she to travel next?", "Where does she going to travel next?", "Where she is going to travel next?", "Where is she going to travel next?"],
+              "correct": 3,
+              "explanation": "Invert is and she, then use going to + base verb."
+            },
+            {
+              "type": "mcq",
+              "question": "When can the simple present describe the future?",
+              "options": ["For scheduled or fixed events", "For every uncertain prediction", "Only after won't", "For completed travel"],
+              "correct": 0,
+              "explanation": "The lesson uses the simple present for schedules and fixed future events."
+            },
+            {
+              "type": "mcq",
+              "question": "Which scheduled-future example appears in the video?",
+              "options": ["The train will leaving at six.", "The train leaves at 6 p.m. tomorrow.", "The train left tomorrow.", "The train is leave at six."],
+              "correct": 1,
+              "explanation": "The train schedule uses the simple-present verb leaves with a future time marker."
+            },
+            {
+              "type": "mcq",
+              "question": "What future meaning does the present continuous express here?",
+              "options": ["A law", "A past result", "A future arrangement", "An uncountable amount"],
+              "correct": 2,
+              "explanation": "The video uses present continuous for arranged future activities."
+            },
+            {
+              "type": "mcq",
+              "question": "Which arranged-future sentence matches the video?",
+              "options": ["We meet them yesterday.", "We will meeting them tomorrow.", "We are meet them tomorrow.", "We are meeting them tomorrow at 6 p.m."],
+              "correct": 3,
+              "explanation": "The arrangement uses are + meeting and a future time expression."
+            },
+            {
+              "type": "mcq",
+              "question": "Which form best fits a timetable?",
+              "options": ["Simple present", "Will not + past verb", "Past continuous", "Shall have + noun"],
+              "correct": 0,
+              "explanation": "The lesson assigns scheduled or fixed events to the simple present."
+            },
+            {
+              "type": "mcq",
+              "question": "Which comparison best summarizes the lesson?",
+              "options": ["Will is only for schedules; going to is only for laws.", "Will handles general future meanings; going to highlights plans or evidence; present forms cover schedules or arrangements.", "Every future sentence must contain will.", "Shall is the only normal future form in modern English."],
+              "correct": 1,
+              "explanation": "The video closes by distinguishing will, going to, scheduled simple present, and arranged present continuous."
+            }
+          ]
         }
       ]
     }
