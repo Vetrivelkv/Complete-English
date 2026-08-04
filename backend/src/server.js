@@ -8,6 +8,7 @@ import { initializeDatabase } from "./init/database.js";
 import registerAuthRoutes, { requireSession } from "./routes/auth.js";
 import registerCourseRoutes from "./routes/courses.js";
 import registerProfileRoutes from "./routes/profile.js";
+import registerSettingsRoutes from "./routes/settings.js";
 
 const app = express();
 const port = Number(process.env.PORT) || 8000;
@@ -23,6 +24,7 @@ registerAuthRoutes(app);
 app.use("/api", requireSession);
 registerCourseRoutes(app);
 registerProfileRoutes(app);
+registerSettingsRoutes(app);
 
 const projectRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..", "..");
 const frontendDist = path.join(projectRoot, "frontend", "dist");

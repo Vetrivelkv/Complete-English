@@ -9,6 +9,7 @@ import DashboardPage from "./pages/DashboardPage";
 import LessonPage from "./pages/LessonPage";
 import ChallengePage from "./pages/ChallengePage";
 import ProfilePage from "./pages/ProfilePage";
+import SettingsPage from "./pages/SettingsPage";
 
 const AuthContext = createContext(null);
 export const useAuth = () => useContext(AuthContext);
@@ -39,6 +40,7 @@ function AppRoutes() {
           <Route path="/course/:courseId/learn/:topic/:moduleId" element={<LessonPage />} />
           <Route path="/course/:courseId/challenge/:topic/:roundNumber" element={<ChallengePage />} />
           <Route path="/profile" element={<ProfilePage />} />
+          <Route path="/settings" element={<SettingsPage />} />
         </Route>
         <Route path="*" element={<Navigate to={user ? "/courses" : "/login"} replace />} />
       </Routes>
@@ -52,6 +54,7 @@ export default function App() {
   const [expiresAt, setExpiresAt] = useState(null);
   const [checking, setChecking] = useState(true);
   const [expired, setExpired] = useState(false);
+  const [theme, setTheme] = useState("default");
 
   useEffect(() => {
     apiFetch("/api/auth/session", { sessionAware: false })
@@ -59,10 +62,16 @@ export default function App() {
         if (!response.ok) return;
         const data = await response.json();
         setUser(data.user);
+        setTheme(data.user.theme === "dark" ? "dark" : "default");
         setExpiresAt(data.expiresAt);
       })
       .finally(() => setChecking(false));
   }, []);
+
+  useEffect(() => {
+    document.documentElement.dataset.theme = theme;
+    document.documentElement.style.colorScheme = theme === "dark" ? "dark" : "light";
+  }, [theme]);
 
   useEffect(() => {
     const handleExpired = () => setExpired(true);
@@ -87,16 +96,35 @@ export default function App() {
     expired,
     login: (session) => {
       setUser(session.user);
+      setTheme(session.user.theme === "dark" ? "dark" : "default");
       setExpiresAt(session.expiresAt);
       setExpired(false);
     },
     logout: async () => {
       await apiFetch("/api/auth/logout", { method: "POST", sessionAware: false }).catch(() => {});
       setUser(null);
+      setTheme("default");
       setExpiresAt(null);
     },
+    theme,
+    saveTheme: async (nextTheme) => {
+      const previousTheme = theme;
+      setTheme(nextTheme);
+      try {
+        const response = await apiFetch("/api/settings", {
+          method: "PATCH",
+          body: JSON.stringify({ theme: nextTheme }),
+        });
+        const settings = await response.json().catch(() => ({}));
+        if (!response.ok) throw new Error(settings.detail || "Unable to save theme.");
+        setTheme(settings.theme);
+      } catch (error) {
+        setTheme(previousTheme);
+        throw error;
+      }
+    },
     clearExpired: () => setExpired(false),
-  }), [user, checking, expired]);
+  }), [user, checking, expired, theme]);
 
   return <AuthContext.Provider value={value}><BrowserRouter><AppRoutes /></BrowserRouter></AuthContext.Provider>;
 }

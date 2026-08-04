@@ -1,4 +1,4 @@
-import { BookOpen, GraduationCap, LogOut, UserRound } from "lucide-react";
+import { BookOpen, GraduationCap, LogOut, Settings, UserRound } from "lucide-react";
 import { NavLink, Outlet, useLocation, useNavigate } from "react-router-dom";
 import { useAuth } from "../App";
 
@@ -25,6 +25,9 @@ export default function AppShell() {
           <NavLink to="/courses"><BookOpen size={18} /> Courses</NavLink>
           {courseId && <NavLink to={`/course/${courseId}`}>Dashboard</NavLink>}
           <NavLink to="/profile"><UserRound size={18} /> {user.username}</NavLink>
+          <NavLink className="settings-nav-link" to="/settings" aria-label="Settings" title="Settings">
+            <Settings size={19} /><span>Settings</span>
+          </NavLink>
           <button className="nav-button" type="button" onClick={signOut}><LogOut size={18} /> Sign out</button>
         </nav>
       </header>

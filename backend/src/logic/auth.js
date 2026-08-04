@@ -20,7 +20,11 @@ if (process.env.NODE_ENV === "production"
   throw new Error("JWT_ACCESS_SECRET and JWT_REFRESH_SECRET are required in production.");
 }
 
-const publicUser = (user) => user && ({ id: user.id, username: user.username });
+const publicUser = (user) => user && ({
+  id: user.id,
+  username: user.username,
+  theme: user.theme === "dark" ? "dark" : "default",
+});
 
 async function findByUsername(username) {
   return r.table("users")
@@ -61,6 +65,7 @@ export async function register(username, password) {
   const result = await r.table("users").insert({
     username: normalized,
     password_hash: await bcrypt.hash(password, 12),
+    theme: "default",
     created_at: new Date(),
     updated_at: new Date(),
   }, { returnChanges: true }).run();
@@ -109,11 +114,12 @@ function readToken(request, response) {
 
 export async function requireSession(request, response, next) {
   const session = readToken(request, response);
-  if (!session || !await findById(session.user.id)) {
+  const storedUser = session ? await findById(session.user.id) : null;
+  if (!session || !storedUser) {
     clearSession(response);
     return response.status(401).json({ code: "SESSION_EXPIRED", detail: "Your session has expired." });
   }
-  request.user = session.user;
+  request.user = publicUser(storedUser);
   request.sessionExpiresAt = session.expiresAt;
   next();
 }
