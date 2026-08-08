@@ -5431,6 +5431,140 @@
               "explanation": "The lesson reviews several valid future forms and asks learners to choose each one according to its purpose."
             }
           ]
+        },
+{
+          "id": "simple_future_tense_use",
+          "title": "Use it! - Simple Future Tense",
+          "image": "assets/simple_future_tense_use_it_dialogue.jpg",
+          "content": "### Use-It Lesson: Future Simple In A Real Conversation\n\nThis short video shows the **future simple tense in a natural conversation**. The instructor asks you to listen while the dialogue is read, understand the grammar, and then read it aloud yourself to improve fluency and pronunciation.\n\n### The conversation\n\n> **Speaker:** Mike, what are your plans for tonight?  \n> **Mike:** I don't know really. **I'll probably play** some video games after work.  \n> **Speaker:** And **what will you do tomorrow?**  \n> **Mike:** Well, I **definitely won't go out** with my friends tomorrow.  \n> **Speaker:** And **what will you do next week?**  \n> **Mike:** **I'll most certainly start** learning another language.  \n> **Speaker:** Mike, how do you have an answer for everything?  \n> **Mike:** It's quite simple. I don't plan anything. **Things will happen** on their own.\n\n### 1. Asking about future actions\n\nThe dialogue asks the same future question with two different time expressions:\n\n- **What will you do tomorrow?**\n- **What will you do next week?**\n\nThe pattern is:\n\n**WH word + will + subject + base verb?**\n\n`Will` comes before the subject `you`, and `do` remains in its base form. The opening question, **What are your plans for tonight?**, uses the present form `are` to ask about future plans; real conversations can use more than one grammatical pattern.\n\n### 2. Positive future statements and contractions\n\nMike says:\n\n- **I'll probably play** some video games after work.\n- **I'll most certainly start** learning another language.\n\n`I'll` is the contraction of **I will**. The main verbs `play` and `start` stay in their base forms. In both positive statements, the probability expression comes between `will` and the main verb:\n\n**subject + will + probability expression + base verb**\n\n| Contracted line | Full form | Marker | Main verb |\n|---|---|---|---|\n| I'll probably play... | I will probably play... | probably | play |\n| I'll most certainly start... | I will most certainly start... | most certainly | start |\n\n### 3. Probability and certainty\n\nThe dialogue does not present every future answer with the same confidence.\n\n- **probably** means the action is likely, but not completely certain;\n- **definitely** expresses strong certainty;\n- **most certainly** also expresses very strong certainty.\n\nThese expressions make the speaker's attitude more precise than a plain future statement.\n\n### 4. Negative future with `won't`\n\nMike says:\n\n**I definitely won't go out with my friends tomorrow.**\n\n`Won't` is the contraction of **will not**, and `go` remains in its base form. Because `won't` is one contracted unit, `definitely` comes before it:\n\n**subject + certainty marker + won't + base verb**\n\nThe full form can be expressed as **I will definitely not go out...**, where the certainty marker follows `will` and comes before `not`.\n\n### 5. Future time expressions\n\nThe conversation organizes Mike's answers around three future periods:\n\n| Time expression | Future idea |\n|---|---|\n| tonight / after work | probably play video games |\n| tomorrow | definitely not go out with friends |\n| next week | most certainly start learning another language |\n\nThese markers clarify when each future action is expected to happen.\n\n### 6. A prediction about what will happen\n\nThe final future sentence is:\n\n**Things will happen on their own.**\n\nIt follows the standard positive structure **subject + will + base verb**. Unlike the earlier answers, it contains no probability marker: Mike presents it as a straightforward future prediction.\n\n### 7. Mixed tenses in natural speech\n\nNot every line is future simple.\n\n- **I don't know really.** — simple present negative\n- **It's quite simple.** — simple present with `to be`\n- **I don't plan anything.** — simple present negative\n- **Things will happen on their own.** — simple future\n\nThis is normal. A conversation can use present forms to describe the speaker's current knowledge or habits and future forms for later actions.\n\n### Read it aloud\n\nFollow the video's practice instructions:\n\n1. Listen once while following the written dialogue.\n2. Check that you understand every contraction and future marker.\n3. Read the whole dialogue aloud slowly.\n4. Repeat it at a natural speed, keeping **I'll** and **won't** together.\n5. Stress the certainty markers: **probably**, **definitely**, and **most certainly**.\n\n### Recap\n\n- Future questions use `will + subject + base verb`.\n- `I'll` means `I will`; `won't` means `will not`.\n- Main verbs stay in the base form after `will` and `won't`.\n- In positive statements, probability markers follow `will` and precede the main verb.\n- Before contracted `won't`, a marker such as `definitely` comes first.\n- Future time expressions include `tonight`, `tomorrow`, and `next week`.\n- Reading the dialogue aloud builds fluency and pronunciation.",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What does the video ask learners to do after listening?",
+              "options": ["Understand the grammar and read the dialogue aloud", "Rewrite the dialogue only in the past tense", "Memorize the speakers' names without speaking", "Remove all contractions from the dialogue"],
+              "correct": 0,
+              "explanation": "The instructor asks learners to understand the grammar and read aloud to develop fluency and pronunciation."
+            },
+            {
+              "type": "mcq",
+              "question": "What is the full form of 'I'll' in 'I'll probably play some video games'?",
+              "options": ["I shall", "I will", "I would", "I am"],
+              "correct": 1,
+              "explanation": "I'll is the contraction of I will."
+            },
+            {
+              "type": "mcq",
+              "question": "Which activity will Mike probably do after work?",
+              "options": ["Go out with his friends", "Start work again", "Play some video games", "Study a language"],
+              "correct": 2,
+              "explanation": "Mike says, 'I'll probably play some video games after work.'"
+            },
+            {
+              "type": "mcq",
+              "question": "Which future question appears in the dialogue?",
+              "options": ["What did you do tomorrow?", "What you will do tomorrow?", "What do you will tomorrow?", "What will you do tomorrow?"],
+              "correct": 3,
+              "explanation": "The dialogue uses WH word + will + subject + base verb."
+            },
+            {
+              "type": "mcq",
+              "question": "What is the correct structure of 'What will you do next week?'",
+              "options": ["WH word + will + subject + base verb", "Will + WH word + past verb + subject", "WH word + subject + will + verb-ing", "Do + subject + will + past verb"],
+              "correct": 0,
+              "explanation": "What comes first, will is inverted with the subject, and do stays in its base form."
+            },
+            {
+              "type": "mcq",
+              "question": "What does 'won't' mean?",
+              "options": ["would not", "will not", "was not", "does not"],
+              "correct": 1,
+              "explanation": "Won't is the standard contraction of will not."
+            },
+            {
+              "type": "mcq",
+              "question": "What does Mike definitely say he will not do tomorrow?",
+              "options": ["Play video games", "Start another language", "Go out with his friends", "Go to work"],
+              "correct": 2,
+              "explanation": "His line is, 'I definitely won't go out with my friends tomorrow.'"
+            },
+            {
+              "type": "mcq",
+              "question": "Which sentence reproduces the negative future line correctly?",
+              "options": ["I won't definitely went out tomorrow.", "I will definitely won't go out tomorrow.", "I definitely don't will go out tomorrow.", "I definitely won't go out tomorrow."],
+              "correct": 3,
+              "explanation": "With the contraction, definitely comes before won't, which is followed by the base verb go."
+            },
+            {
+              "type": "mcq",
+              "question": "Where does 'probably' appear in 'I will probably play'?",
+              "options": ["After will and before the base verb", "Before the subject", "After the object", "Between I and will only"],
+              "correct": 0,
+              "explanation": "In a positive future statement, the probability marker follows will and precedes play."
+            },
+            {
+              "type": "mcq",
+              "question": "Which phrase expresses Mike's strongest certainty about starting another language?",
+              "options": ["perhaps", "most certainly", "not really", "once before"],
+              "correct": 1,
+              "explanation": "Mike says, 'I'll most certainly start learning another language.'"
+            },
+            {
+              "type": "mcq",
+              "question": "Which verb remains in the base form after 'I'll most certainly'?",
+              "options": ["started", "starting", "start", "starts"],
+              "correct": 2,
+              "explanation": "Will is followed by the base verb start."
+            },
+            {
+              "type": "mcq",
+              "question": "Which line is the final future prediction in the conversation?",
+              "options": ["I don't know really.", "It's quite simple.", "I don't plan anything.", "Things will happen on their own."],
+              "correct": 3,
+              "explanation": "Things will happen uses will + the base verb happen to make a future prediction."
+            },
+            {
+              "type": "mcq",
+              "question": "Which time expression refers to the nearest future period in the dialogue?",
+              "options": ["tonight", "last night", "last week", "yesterday"],
+              "correct": 0,
+              "explanation": "The first question asks about plans for tonight."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sequence preserves the conversation's future order?",
+              "options": ["next week, yesterday, tonight", "tonight, tomorrow, next week", "tomorrow, last week, tonight", "yesterday, tonight, last year"],
+              "correct": 1,
+              "explanation": "The questions move from tonight to tomorrow and then to next week."
+            },
+            {
+              "type": "mcq",
+              "question": "Which line is simple present rather than simple future?",
+              "options": ["I'll probably play some video games.", "Things will happen on their own.", "I don't plan anything.", "I'll most certainly start learning another language."],
+              "correct": 2,
+              "explanation": "I don't plan anything uses the simple-present helper don't; the other choices contain will."
+            },
+            {
+              "type": "mcq",
+              "question": "Why does the dialogue contain present-tense lines?",
+              "options": ["The future simple cannot be used in speech.", "Every line is secretly past tense.", "The slide contains a grammatical mistake.", "Natural conversations mix tenses according to meaning."],
+              "correct": 3,
+              "explanation": "Present forms describe Mike's current knowledge or habits, while will describes later actions."
+            },
+            {
+              "type": "mcq",
+              "question": "Which reading method best follows the video's directions?",
+              "options": ["Listen, understand the grammar, and then read aloud", "Read only the bold words silently", "Skip the contractions during pronunciation practice", "Change every base verb to an -ed form"],
+              "correct": 0,
+              "explanation": "The stated goal is to combine comprehension with aloud practice for fluency and pronunciation."
+            },
+            {
+              "type": "mcq",
+              "question": "Which statement best summarizes the lesson's use of certainty markers?",
+              "options": ["They replace the subject of a sentence.", "Probably shows likelihood, while definitely and most certainly show stronger certainty.", "They change every verb into past tense.", "They can only appear at the end of a question."],
+              "correct": 1,
+              "explanation": "The dialogue uses these markers to express different degrees of confidence about future actions."
+            }
+          ]
         }
       ]
     }
