@@ -5565,6 +5565,154 @@
               "explanation": "The dialogue uses these markers to express different degrees of confidence about future actions."
             }
           ]
+        },
+        {
+          "id": "simple_future_tense_practice",
+          "title": "Practice it! - Simple Future Tense",
+          "image": "assets/simple_future_tense_practice_it_exercises.jpg",
+          "content": "### Practice-It Lesson: Work With The Future Simple\n\nThis lesson asks you to solve the exercises before the answers appear. It has three stages: find the marker words, complete sentences with the correct future form, and give your own answers to future questions.\n\n### 1. Find the markers\n\nThe first exercise says to find **time markers**, while the revealed answers also highlight words showing probability or certainty. It is useful to separate the two jobs.\n\n| Video sentence | Highlighted marker | What it expresses |\n|---|---|---|\n| **Perhaps** you'll make the right decision. Time will tell. | perhaps | probability |\n| Max will **certainly** come **later tonight**. | certainly / later tonight | certainty / future time |\n| Susan will try to go there **next month**, but it **probably** won't happen. | next month / probably | future time / probability |\n\n`Perhaps` usually appears before the subject. With a positive `will` statement, `certainly` comes after `will` and before the base verb: **will certainly come**. With contracted `won't`, `probably` comes before the contraction: **probably won't happen**.\n\nThe word `time` in **Time will tell** is a noun and the subject of the sentence; it is not itself a time expression telling us when the action will happen.\n\n### 2. Complete the sentences\n\nThe video next supplies infinitive prompts and asks you to write the correct sentence.\n\n| Prompt | Revealed answer | Grammar point |\n|---|---|---|\n| Why can't you come over? I (to let) you sleep at my place. | Why can't you come over? **I'll let** you sleep at my place. | `'ll + base verb` |\n| I (not to do) it unless you prove Jane wrong. | **I won't do** it unless you prove Jane wrong. | `won't + base verb` |\n| We (to try) to make it work. We (to let) you know. | **We'll try** to make it work. **We'll let** you know. | two positive contractions |\n| (we/to go) to the restaurant tonight? I (to pay) for the meal. | **Shall we go** to the restaurant tonight? **I'll pay** for the meal. | suggestion with `shall`; offer with `will` |\n\nAfter `will`, `won't`, and `shall`, use the base form: `let`, `do`, `try`, `go`, and `pay`. Do not add `-s`, `-ed`, or `-ing`.\n\n### 3. Contractions used in the answers\n\n| Contraction | Full form | Video example |\n|---|---|---|\n| I'll | I will | I'll let you sleep at my place. |\n| won't | will not | I won't do it. |\n| we'll | we will | We'll try to make it work. |\n| I'll | I will | I'll pay for the meal. |\n\nThe apostrophe replaces missing letters. The verb after each contraction remains in its base form.\n\n### 4. A suggestion and an offer\n\nThe restaurant exchange combines two different functions:\n\n- **Shall we go to the restaurant tonight?** — a suggestion\n- **I'll pay for the meal.** — an offer or decision\n\nFor the suggestion, `shall` comes before the subject `we`, and `go` stays in its base form.\n\n### 5. Answer the questions\n\nThe final task is open-ended. The video gives sample answers, so other grammatically correct and meaningful answers are also possible.\n\n| Question | Video sample answer |\n|---|---|\n| What will you do tomorrow? | **I'll probably stay at home and sleep the whole day.** |\n| Where will you stay during your summer vacation? | **I'll stay at my friends' place.** |\n| Will robots take over the planet? | **Robots won't take over the planet.** / **I don't think that robots will take over the planet.** |\n\nThe first two are WH-questions and need information in the answer. The third is a yes/no future question, but the speaker can answer with a complete negative prediction.\n\n### Practice strategy\n\n1. Find expressions showing **when** or **how certain** a future idea is.\n2. Decide whether the sentence is positive, negative, a question, suggestion, or offer.\n3. Choose `will`, `won't`, or `shall` and keep the next verb in its base form.\n4. Use contractions naturally where the exercise does.\n5. For open questions, write a full answer that matches the question word and time period.\n\n### Recap\n\n- `perhaps`, `probably`, and `certainly` show degrees of certainty.\n- `later tonight` and `next month` are future-time markers.\n- Positive future: `subject + will/'ll + base verb`.\n- Negative future: `subject + will not/won't + base verb`.\n- `Shall we + base verb?` can make a suggestion.\n- Open-ended questions can have several correct answers.",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What is the learner first asked to find in the sentences?",
+              "options": ["Marker words and expressions", "Past participles", "Plural nouns", "Comparative adjectives"],
+              "correct": 0,
+              "explanation": "The first slide asks learners to find time markers, and the revealed answers also highlight probability and certainty markers."
+            },
+            {
+              "type": "mcq",
+              "question": "Which word is highlighted in 'Perhaps you'll make the right decision'?",
+              "options": ["decision", "perhaps", "make", "right"],
+              "correct": 1,
+              "explanation": "Perhaps is the probability marker highlighted in the revealed answer."
+            },
+            {
+              "type": "mcq",
+              "question": "What does 'perhaps' express in the first exercise?",
+              "options": ["A completed action", "An exact time", "Possibility or probability", "A command"],
+              "correct": 2,
+              "explanation": "Perhaps shows that making the right decision is possible but not certain."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sentence places the certainty marker correctly?",
+              "options": ["Max certainly will comes later tonight.", "Max will come certainly later tonight.", "Max will certainly comes later tonight.", "Max will certainly come later tonight."],
+              "correct": 3,
+              "explanation": "Certainly follows will and precedes the base verb come."
+            },
+            {
+              "type": "mcq",
+              "question": "What is the future-time expression in Max's sentence?",
+              "options": ["later tonight", "certainly", "Max", "come"],
+              "correct": 0,
+              "explanation": "Later tonight tells when Max will come."
+            },
+            {
+              "type": "mcq",
+              "question": "Which expression tells when Susan will try to go there?",
+              "options": ["probably", "next month", "won't", "try to"],
+              "correct": 1,
+              "explanation": "Next month is the future-time marker in Susan's sentence."
+            },
+            {
+              "type": "mcq",
+              "question": "Where does 'probably' appear in Susan's negative prediction?",
+              "options": ["After happen", "Between won't and happen", "Before the contraction won't", "Before Susan"],
+              "correct": 2,
+              "explanation": "The video sentence says, 'it probably won't happen.'"
+            },
+            {
+              "type": "mcq",
+              "question": "Complete: 'Why can't you come over? I ___ you sleep at my place.'",
+              "options": ["will letting", "let will", "will leted", "I'll let"],
+              "correct": 3,
+              "explanation": "The revealed answer is, 'I'll let you sleep at my place.'"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the full form of 'I'll let'?",
+              "options": ["I will let", "I would let", "I am letting", "I have let"],
+              "correct": 0,
+              "explanation": "I'll contracts I will, and let is the base verb."
+            },
+            {
+              "type": "mcq",
+              "question": "Complete the negative exercise: 'I ___ it unless you prove Jane wrong.'",
+              "options": ["won't did", "won't do", "don't will do", "will not did"],
+              "correct": 1,
+              "explanation": "The answer uses won't followed by the base verb do."
+            },
+            {
+              "type": "mcq",
+              "question": "Which pair correctly completes the two sentences about making it work?",
+              "options": ["We tried / We let", "We will trying / We will letting", "We'll try / We'll let", "We try will / We let will"],
+              "correct": 2,
+              "explanation": "The video reveals: 'We'll try to make it work. We'll let you know.'"
+            },
+            {
+              "type": "mcq",
+              "question": "Which restaurant suggestion matches the revealed answer?",
+              "options": ["Will we went to the restaurant tonight?", "Do shall we go to the restaurant tonight?", "We shall going to the restaurant tonight?", "Shall we go to the restaurant tonight?"],
+              "correct": 3,
+              "explanation": "A suggestion uses shall before we and the base verb go."
+            },
+            {
+              "type": "mcq",
+              "question": "What offer follows the restaurant suggestion?",
+              "options": ["I'll pay for the meal.", "I paying for the meal.", "I paid tomorrow for the meal.", "I'll paid for the meal."],
+              "correct": 0,
+              "explanation": "The video completes the prompt with, 'I'll pay for the meal.'"
+            },
+            {
+              "type": "mcq",
+              "question": "Which rule applies after will, won't, and shall in these exercises?",
+              "options": ["Always add -ed", "Use the base form of the verb", "Always add -ing", "Change the verb to third-person singular"],
+              "correct": 1,
+              "explanation": "The answers use let, do, try, go, and pay in their base forms."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sample answer is given for 'What will you do tomorrow?'",
+              "options": ["I stayed at home yesterday.", "I probably staying tomorrow.", "I'll probably stay at home and sleep the whole day.", "I will probably stayed at home."],
+              "correct": 2,
+              "explanation": "That is the complete sample answer shown in the video."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sample answer addresses the summer-vacation question?",
+              "options": ["I stayed there last summer.", "I won't know yesterday.", "My friends will vacation.", "I'll stay at my friends' place."],
+              "correct": 3,
+              "explanation": "The video supplies, 'I'll stay at my friends' place.'"
+            },
+            {
+              "type": "mcq",
+              "question": "Which negative prediction is offered about robots?",
+              "options": ["Robots won't take over the planet.", "Robots didn't take over tomorrow.", "Robots won't took over the planet.", "Robots not will take over the planet."],
+              "correct": 0,
+              "explanation": "The sample answer uses won't followed by the base verb take."
+            },
+            {
+              "type": "mcq",
+              "question": "Which longer alternative about robots also appears?",
+              "options": ["I don't think that robots took over tomorrow.", "I don't think that robots will take over the planet.", "I won't think robots will took over.", "I think not robots take the planet."],
+              "correct": 1,
+              "explanation": "The video provides this as an alternative complete response."
+            },
+            {
+              "type": "mcq",
+              "question": "Why can answers to the final three questions differ from the samples?",
+              "options": ["The questions contain no verbs.", "Only past-tense answers are accepted.", "They are open-ended questions with multiple meaningful answers.", "The displayed answers are intentionally incorrect."],
+              "correct": 2,
+              "explanation": "The slide labels them sample answers, so other grammatical answers that fit the question are possible."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sequence best describes this practice lesson?",
+              "options": ["Memorize nouns, translate adjectives, write a story", "Study past verbs, compare tenses, remove contractions", "Read a dialogue only, without answering", "Find markers, complete future forms, then answer future questions"],
+              "correct": 3,
+              "explanation": "Those are the three exercise stages presented in the video."
+            }
+          ]
         }
       ]
     }
