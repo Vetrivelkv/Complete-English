@@ -5269,6 +5269,168 @@
               "explanation": "The video closes by distinguishing will, going to, scheduled simple present, and arranged present continuous."
             }
           ]
+        },
+        {
+          "id": "simple_future_tense_review",
+          "title": "Review it! - Simple Future Tense",
+          "image": "assets/simple_future_tense_review_it.jpg",
+          "content": "### What this review covers\n\nThis **Review it!** lesson checks whether you can recognize and build future sentences instead of only remembering a rule. Scott begins with multiple-choice examples, moves to guided fill-in-the-blank practice, and finishes with sentence transformations, contractions, time and probability markers, and a suggestion with `shall`.\n\n### Recognizing `will` future sentences\n\nThe basic positive form is:\n\n**Subject + will + base verb**\n\nThe review contrasts four tenses and selects **I will finish my homework tomorrow** as the simple-future sentence. The same pattern appears in **They will travel to Japan next summer**. Future expressions such as **tomorrow**, **next summer**, and **next year** help show when the action will happen, but the grammatical signal is `will + base verb`.\n\n### Negative future sentences\n\nUse:\n\n**Subject + will not + base verb**\n\n`Will not` contracts to **won't**.\n\n- I **will not go** to the party.\n- She **won't attend** the meeting tomorrow.\n- They **will not finish** the project on time.\n- They **won't go** to the bar tomorrow.\n\nDo not combine extra auxiliaries with `will`, and keep the main verb in its base form.\n\n### Future questions\n\nFor a yes/no question, invert `will` and the subject:\n\n**Will + subject + base verb?**\n\n- **Will you go** to the meeting tomorrow?\n- **Will he arrive** on time for the interview?\n\nFor an information question, put the WH word first:\n\n**WH word + will + subject + base verb?**\n\nThe exercise changes `(you / to do)` into **What will you do next week?**\n\n### Future time expressions\n\nA time expression must agree with the future meaning. The review chooses **They will travel to Europe next year**, not sentences containing past expressions such as `last year` or present expressions such as `right now`. Another model is **We will start the project tomorrow morning**.\n\n### `Going to` for plans\n\nUse:\n\n**Subject + am/is/are + going to + base verb**\n\n- I **am going to finish** my project tonight.\n- She **is going to bake** a cake for the party.\n- She **is going to go** to the gym next week.\n\nThe form of `be` must agree with the subject. Do not put `will` and `going to` together.\n\n### Guided completion practice\n\n| Prompt | Answer | Reason |\n|---|---|---|\n| I ___ (meet) my friend for lunch tomorrow. | I **will meet** my friend for lunch tomorrow. | `will + meet` forms the normal simple future. |\n| They ___ (not, finish) the project on time. | They **will not finish** / **won't finish** the project on time. | Put `not` after `will`. |\n| She ___ (go) to the gym next week. | She **is going to go** to the gym next week. | The exercise specifically asks for `going to`; `she` takes `is`. |\n| We ___ (attend) the meeting at 3 p.m. tomorrow. | We **will attend** the meeting at 3 p.m. tomorrow. | Use `will +` the base verb `attend`. |\n| The plane ___ (leave) at 8 a.m. next Monday. | The plane **leaves** at 8 a.m. next Monday. | A fixed schedule can use the simple present. |\n\n### Building and transforming sentences\n\nThe later exercises ask you to apply three rules together:\n\n1. Use `will + base verb` for a positive future statement.\n2. Invert `will` and the subject to make a question.\n3. Add `not` after `will` to make a negative statement.\n\nThat produces **They will not go to the bar tomorrow** and **What will you do next week?**\n\n### Contractions\n\nUse **'ll** for `will` and **won't** for `will not`:\n\n- I **will call** you later. → **I'll call** you later.\n- I **will not do** anything without your advice. → **I won't do** anything without your advice.\n\n### Time and probability markers\n\nThe lesson asks you to identify words that add future timing or probability:\n\n- He'll finish his book **in a week or two**. — time marker\n- You **probably** won't listen to me, but I'll try to explain it. — probability marker\n\nIn a positive future statement, `probably` comes after `will` and before the main verb: **I will probably meet up with some friends.** The review also shows it before the negative contraction in **You probably won't listen to me**.\n\n### `Shall` for suggestions\n\nWith **we**, `shall` can make a suggestion:\n\n**Shall we go? It's getting late.**\n\nHere `shall` comes before the subject, just as an auxiliary does in a question.\n\n### Final review checklist\n\nBefore choosing or writing an answer, check that:\n\n- `will` is followed by a base verb;\n- `not` follows `will`, or the contraction is `won't`;\n- questions place `will` before the subject;\n- `going to` has the correct form of `be`;\n- the time expression matches future meaning;\n- fixed schedules may use the simple present; and\n- markers such as `probably` are placed naturally.",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which sentence does the video identify as simple future?",
+              "options": ["I finished my homework yesterday.", "I will finish my homework tomorrow.", "I am finishing my homework now.", "I had finished my homework last week."],
+              "correct": 1,
+              "explanation": "Will + the base verb finish forms the simple future, and tomorrow supplies a future time marker."
+            },
+            {
+              "type": "mcq",
+              "question": "Which structure forms a positive simple-future statement?",
+              "options": ["Subject + will + base verb", "Subject + did + base verb", "Will + subject + past verb", "Subject + will + verb-ing"],
+              "correct": 0,
+              "explanation": "The review repeatedly uses subject + will + the unchanged base form of the main verb."
+            },
+            {
+              "type": "mcq",
+              "question": "Which negative sentence is correct?",
+              "options": ["I didn't will go to the party.", "I will not went to the party.", "I will not go to the party.", "I won't will go to the party."],
+              "correct": 2,
+              "explanation": "A future negative uses will not followed by the base verb go."
+            },
+            {
+              "type": "mcq",
+              "question": "What is the contraction of 'will not'?",
+              "options": ["willn't", "wouldn't", "isn't", "won't"],
+              "correct": 3,
+              "explanation": "The video uses won't as the contracted form of will not."
+            },
+            {
+              "type": "mcq",
+              "question": "Which future question follows the pattern taught in the video?",
+              "options": ["Will you go to the meeting tomorrow?", "Do you will go to the meeting tomorrow?", "Did you will go to the meeting tomorrow?", "Are you will go to the meeting tomorrow?"],
+              "correct": 0,
+              "explanation": "Future questions invert will and the subject, then use the base verb."
+            },
+            {
+              "type": "mcq",
+              "question": "How should '(you / to do) next week' begin as an information question?",
+              "options": ["What do will you do", "What will you do", "Will what you did", "What you will doing"],
+              "correct": 1,
+              "explanation": "The correct order is WH word + will + subject + base verb: What will you do next week?"
+            },
+            {
+              "type": "mcq",
+              "question": "Which sentence combines the future form with a suitable future time expression?",
+              "options": ["They traveled to Europe next year.", "They will travel to Europe last year.", "They will travel to Europe next year.", "They are traveling to Europe yesterday."],
+              "correct": 2,
+              "explanation": "Will travel is future, and next year is a matching future time expression."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sentence correctly uses 'going to' for a plan?",
+              "options": ["I will going to finish my project tonight.", "I going to finish my project tonight.", "I am going finish my project tonight.", "I am going to finish my project tonight."],
+              "correct": 3,
+              "explanation": "Going to requires the agreeing form am, followed by going to and the base verb finish."
+            },
+            {
+              "type": "mcq",
+              "question": "Why is 'I will going to finish' incorrect?",
+              "options": ["Will and going to should not be combined in that structure.", "Finish must always be past tense.", "Tonight can only describe the past.", "The subject I cannot discuss plans."],
+              "correct": 0,
+              "explanation": "Scott explicitly warns not to put will and going to together."
+            },
+            {
+              "type": "mcq",
+              "question": "Complete the video exercise: 'I ___ my friend for lunch tomorrow.'",
+              "options": ["met", "will meet", "will met", "am meet"],
+              "correct": 1,
+              "explanation": "The revealed answer is: I will meet my friend for lunch tomorrow."
+            },
+            {
+              "type": "mcq",
+              "question": "Complete: 'They ___ the project on time' using the negative simple future.",
+              "options": ["did not finished", "will not finished", "will not finish", "not will finish"],
+              "correct": 2,
+              "explanation": "The negative pattern is subject + will not + base verb: They will not finish."
+            },
+            {
+              "type": "mcq",
+              "question": "Which answer correctly completes the requested going-to exercise about the gym?",
+              "options": ["She will going to go to the gym next week.", "She going to goes to the gym next week.", "She are going to go to the gym next week.", "She is going to go to the gym next week."],
+              "correct": 3,
+              "explanation": "She agrees with is, and going to is followed by the base verb go."
+            },
+            {
+              "type": "mcq",
+              "question": "Complete: 'We ___ the meeting at 3 p.m. tomorrow.'",
+              "options": ["will attend", "will attended", "attended tomorrow", "will attending"],
+              "correct": 0,
+              "explanation": "The video's answer is We will attend the meeting at 3 p.m. tomorrow."
+            },
+            {
+              "type": "mcq",
+              "question": "How does the video complete the fixed-schedule sentence about the plane?",
+              "options": ["The plane will leaving at 8 a.m. next Monday.", "The plane leaves at 8 a.m. next Monday.", "The plane left at 8 a.m. next Monday.", "The plane is leave at 8 a.m. next Monday."],
+              "correct": 1,
+              "explanation": "A scheduled future event can use the simple present: the plane leaves."
+            },
+            {
+              "type": "mcq",
+              "question": "Which transformed sentence is correct for '(They / not to go) to the bar tomorrow'?",
+              "options": ["They not will go to the bar tomorrow.", "They will not went to the bar tomorrow.", "They will not go to the bar tomorrow.", "They do not will go to the bar tomorrow."],
+              "correct": 2,
+              "explanation": "Put will after the subject, not after will, and keep go in its base form."
+            },
+            {
+              "type": "mcq",
+              "question": "Where does 'probably' go in 'I will ___ meet up with some friends'?",
+              "options": ["Before I", "After friends", "Between meet and up", "After will and before meet"],
+              "correct": 3,
+              "explanation": "The instructor moves probably after will and before the base verb: I will probably meet up."
+            },
+            {
+              "type": "mcq",
+              "question": "Which contracted sentence correctly completes 'I (to call) you later'?",
+              "options": ["I'll call you later.", "I won't call you later.", "I'm will call you later.", "I'll called you later."],
+              "correct": 0,
+              "explanation": "I'll is the contraction of I will and is followed by the base verb call."
+            },
+            {
+              "type": "mcq",
+              "question": "Which contracted sentence correctly completes the negative advice exercise?",
+              "options": ["I don't will do anything without your advice.", "I won't do anything without your advice.", "I won't did anything without your advice.", "I'll not did anything without your advice."],
+              "correct": 1,
+              "explanation": "Won't replaces will not and is followed by the base verb do."
+            },
+            {
+              "type": "mcq",
+              "question": "What is the time marker in 'He'll finish his book in a week or two'?",
+              "options": ["He'll", "finish", "in a week or two", "his book"],
+              "correct": 2,
+              "explanation": "In a week or two tells when the future action is expected to finish."
+            },
+            {
+              "type": "mcq",
+              "question": "What is the probability marker in 'You probably won't listen to me'?",
+              "options": ["you", "won't", "listen", "probably"],
+              "correct": 3,
+              "explanation": "Probably expresses the speaker's estimate of likelihood."
+            },
+            {
+              "type": "mcq",
+              "question": "Which sentence uses 'shall' as the suggestion shown in the review?",
+              "options": ["Shall we go? It's getting late.", "We shall going? It's getting late.", "Do shall we go? It's getting late.", "Shall we went? It's getting late."],
+              "correct": 0,
+              "explanation": "The video completes the suggestion as Shall we go? with shall before we and the base verb go."
+            },
+            {
+              "type": "mcq",
+              "question": "Which statement best summarizes the review?",
+              "options": ["Every future idea must use will.", "Use will for the basic future, going to for the requested plan form, simple present for fixed schedules, and shall for the reviewed suggestion.", "Going to never needs a form of be.", "Future questions use did before will."],
+              "correct": 1,
+              "explanation": "The lesson reviews several valid future forms and asks learners to choose each one according to its purpose."
+            }
+          ]
         }
       ]
     }
